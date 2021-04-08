@@ -8,7 +8,5 @@ df = pd.read_csv("./PMD-en.csv")
 df.replace(to_replace=",", value="", inplace=True)
 
 toronto = df[(df["CSDNAME"] == "Toronto")]
-no_F = toronto[~df.contains("F")]
 
-no_F.to_csv(r'./data-toronto.csv', index=True, header=True)
-print(no_F)
+toronto.to_csv(r'./data-toronto.csv', index=True, header=True)
