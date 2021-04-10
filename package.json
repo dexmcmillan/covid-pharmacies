@@ -1,0 +1,26 @@
+{
+  "name": "covid-pharmacies",
+  "version": "1.0.0",
+  "description": "Analysis of CMHC proximity measures data, which can be downloaded [here](https://www150.statcan.gc.ca/n1/pub/17-26-0002/172600022020001-eng.htm).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexmcmillan/covid-pharmacies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexmcmillan/covid-pharmacies/issues"
+  },
+  "homepage": "https://github.com/dexmcmillan/covid-pharmacies#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.6",
+    "cherio": "^1.0.0-rc.2",
+    "json-2-csv": "^3.10.3",
+    "save-data-helper": "^1.0.2"
+  }
+}

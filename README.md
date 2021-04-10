@@ -1,2 +1,2 @@
-# covid-pharmacies
- Analysis of CMHC proximal index data.
+# COVID-19 Vaccination Location Data
+ Analysis of vaccination location data in Canada.

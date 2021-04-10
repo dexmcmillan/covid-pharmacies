@@ -113,5 +113,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# File too large
-PMD-en.csv
+# Node stuff
+node_modules
+
