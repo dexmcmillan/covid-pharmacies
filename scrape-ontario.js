@@ -61,8 +61,6 @@ async function getData() {
                         const month = parseInt(dateCode.slice(4, 6)) - 1
                         const day = dateCode.slice(6, 8)
 
-                        console.log(`${day}, ${month}, ${year}`)
-
                         site.date = new Date(year, month, day)
                         
                     } catch {}

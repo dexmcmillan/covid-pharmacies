@@ -1,4 +1,4 @@
-FSA,Public Health Unit,Start date of week,End date of week,Overall - % positivity,"Overall - number tested per 100,000 population",NON-LTC - % positivity,"NON-LTC - number tested per 100,000 population"
+fsa,Public Health Unit,Start date of week,End date of week,Overall - % positivity,"Overall - number tested per 100,000 population",NON-LTC - % positivity,"NON-LTC - number tested per 100,000 population"
 K0A,SHARED FSA,21-Mar-21,27-Mar-21,0.02,2090.00,0.02,2041.00
 K0B,2258 Eastern Ontario Health Unit,21-Mar-21,27-Mar-21,0.04,2207.00,0.04,2203.00
 K0C,SHARED FSA,21-Mar-21,27-Mar-21,0.05,2708.00,0.05,2539.00
