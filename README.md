@@ -1,2 +1,4 @@
 # COVID-19 Vaccination Location Data
- Analysis of vaccination location data in Canada.
+CBC News collected the name, geographical address and other details related to every COVID-19 pharmacy vaccine location posted on the Government of Ontario’s website between March 10 and April 12, 2021. We identified the date at which the name of each pharmacy first appeared, comparing the 300+ pharmacies initially chosen to roll out the vaccine (March 10) to the 300+ added later on (March 29) and additional locations announced in the latest expansion (April 11). We then compared the geocoded address of every pharmacy offering the vaccine against all retail pharmacies in the province. Our analysis also considered the COVID-19 infection rate per 100,000 residents. As the government’s vaccination strategy remains heavily reliant on pharmacies, mass vaccination sites and mobile clinics were not included in this analysis.
+
+Story [here]().

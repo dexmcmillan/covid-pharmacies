@@ -1,0 +1,668 @@
+,location_code,name,city,province,covid_site,street,date,X,Y,postal,fsa,type
+1,42.036324-82.600398Walmart,Wal-Mart Pharmacy,Leamington,Ontario,Yes,288 Erie St S,2024-10-29,42.036324,-82.600398,N8H3C5,N8H,Walmart
+3,42.0380544-82.7227949Shoppers Drug Mart,Shoppers Drug Mart,Kingsville,Ontario,Yes,370 Main St E,2023-09-08,42.0380544,-82.7227949,N9Y0C1,N9Y,Shoppers Drug Mart
+4,42.0380845-82.6019932Shoppers Drug Mart,Shoppers Drug Mart,Leamington,Ontario,Yes,269 Erie St S,2023-09-15,42.0380845,-82.6019932,N8H3C4,N8H,Shoppers Drug Mart
+6,42.039571-82.7262084Loblaw,Zehrs,Kingsville,Ontario,Yes,300 Main St S,2025-02-10,42.039571,-82.7262084,N9Y3S9,N9Y,Loblaw
+15,42.2464876-83.0623683Other/Independent,Rob's Whole Health Pharmacy,LaSalle,Ontario,Yes,1765 Sprucewood Unit 250,2023-04-16,42.2464876,-83.0623683,N9J1X7,N9J,Other/Independent
+16,42.2470949-83.0584544Loblaw,Zehrs,LaSalle,Ontario,Yes,5890 Malden Rd,2025-02-11,42.2470949,-83.0584544,N9H1S4,N9H,Loblaw
+18,42.2543888-83.0006333Shoppers Drug Mart,Shoppers Drug Mart,Windsor,Ontario,Yes,3950 Dougall Ave Unit 2,2024-06-18,42.2543888,-83.0006333,N9G1X2,N9G,Shoppers Drug Mart
+22,42.2665457-83.0277459Shoppers Drug Mart,Shoppers Drug Mart,Windsor,Ontario,Yes,1421 Grand Marais Rd W Unit 100,2024-06-13,42.2665457,-83.0277459,N9E4V1,N9E,Shoppers Drug Mart
+23,42.2712258-83.0114629Walmart,Wal-Mart Pharmacy,Windsor,Ontario,Yes,3120 Dougall Rd,2024-12-25,42.2712258,-83.0114629,N9E1S7,N9E,Walmart
+25,42.2843646-83.0554765Shoppers Drug Mart,Shoppers Drug Mart,Windsor,Ontario,Yes,1760 Huron Church Rd,2024-06-20,42.2843646,-83.0554765,N9C2L4,N9C,Shoppers Drug Mart
+26,42.2884792-83.0572164Pharmasave,Westside Pharmacy Pharmasave,Windsor,Ontario,Yes,1550 Huron Church Rd,2025-01-27,42.2884792,-83.0572164,N9C3Z3,N9C,Pharmasave
+27,42.2890479-83.0222068Loblaw,Real Canadian Superstore,Windsor,Ontario,Yes,2430 Dougall Ave,2022-11-02,42.2890479,-83.0222068,N8X1T2,N8X,Loblaw
+29,42.2923673-83.0125541Other/Independent,Ziter Pharmacy,Windsor,Ontario,Yes,2462 Howard Ave Suite 108,2025-02-24,42.2923673,-83.0125541,N8X3V6,N8X,Other/Independent
+33,42.3042997-83.0273263Other/Independent,Windsor Avenue Pharmacy,Windsor,Ontario,Yes,1329 Windsor Ave,2025-02-04,42.3042997,-83.0273263,N8X3L8,N8X,Other/Independent
+35,42.3049209-82.5476026Other/Independent,Healthpoint Pharmacy and Clinic,Stoney Point,Ontario,Yes,7034 Tecumseh Rd,2021-12-31,42.3049209,-82.5476026,N0R1N0,N0R,Other/Independent
+36,42.3064882-82.8675957Sobeys,Sobeys Pharmacy Lakeshore,Lakeshore,Ontario,Yes,19 Amy Croft Dr,2024-07-29,42.3064882,-82.8675957,N9K1C7,N9K,Sobeys
+37,42.3071046-83.0555311Shoppers Drug Mart,Shoppers Drug Mart,Windsor,Ontario,Yes,1675 Wyandotte St W,2024-06-08,42.3071046,-83.0555311,N9B1H8,N9B,Shoppers Drug Mart
+38,42.3077861-82.9634718Other/Independent,Westminster Pharmacy,Windsor,Ontario,Yes,5115 Tecumseh Rd E,2025-01-20,42.3077861,-82.9634718,N8T1C2,N8T,Other/Independent
+39,42.3083012-82.9589626Other/Independent,Central Drug Mart,Windsor,Ontario,Yes,5415 Tecumseh Rd E Unit 501,2021-06-25,42.3083012,-82.9589626,N8T1C5,N8T,Other/Independent
+40,42.3094775-82.9654459Shoppers Drug Mart,Shoppers Drug Mart,Windsor,Ontario,Yes,5050 Tecumseh Rd E,2024-06-09,42.3094775,-82.9654459,N8T1C1,N8T,Shoppers Drug Mart
+41,42.3115441-82.8684313Shoppers Drug Mart,Shoppers Drug Mart,Tecumseh,Ontario,Yes,500 Manning Rd Unit 1,2024-03-09,42.3115441,-82.8684313,N8N5H3,N8N,Shoppers Drug Mart
+42,42.3118054-82.9385598Loblaw,Zehrs,Windsor,Ontario,Yes,7201 Tecumseh Rd E,2025-02-13,42.3118054,-82.9385598,N8T3K4,N8T,Loblaw
+47,42.3145461-82.9432657Walmart,Wal-Mart Pharmacy,Windsor,Ontario,Yes,7100 Tecumseth Rd E,2024-12-24,42.3145461,-82.9432657,N8T1E6,N8T,Walmart
+52,42.3161722-83.0304733Other/Independent,Neighborhood Drug Store,Windsor,Ontario,Yes,439 Wyandotte St E,2022-06-29,42.3161722,-83.0304733,N9A3H8,N9A,Other/Independent
+53,42.3162421-82.982706Shoppers Drug Mart,Shoppers Drug Mart,Windsor,Ontario,Yes,3970 Seminole St,2024-06-11,42.3162421,-82.982706,N8Y4T2,N8Y,Shoppers Drug Mart
+57,42.3962226-82.1773966Shoppers Drug Mart,Shoppers Drug Mart,Chatham,Ontario,Yes,420 Queen St,2023-07-08,42.3962226,-82.1773966,N7M2J2,N7M,Shoppers Drug Mart
+58,42.4147854-82.1991911Rexall,Rexall,Chatham,Ontario,Yes,401 St Clair St,2022-11-29,42.4147854,-82.1991911,N7L3K3,N7L,Rexall
+64,42.7748897-81.1648766Pharmasave,Pharmasave Elgin Mall,St. Thomas,Ontario,Yes,417 Wellington St Unit 109,2022-09-18,42.7748897,-81.1648766,N5R5J5,N5R,Pharmasave
+65,42.7756458-81.1751632Other/Independent,First Ave Pharmacy,St Thomas,Ontario,Yes,24 First Ave Unit 4,2021-11-05,42.7756458,-81.1751632,N5R4M5,N5R,Other/Independent
+66,42.7787939-81.1968819Shoppers Drug Mart,Shoppers Drug Mart,St. Thomas,Ontario,Yes,410 Talbot St,2024-02-29,42.7787939,-81.1968819,N5P1B9,N5P,Shoppers Drug Mart
+67,42.7790377-81.1671523Loblaw,Real Canadian Superstore,St. Thomas,Ontario,Yes,1063 Talbot St Unit 50,2022-10-29,42.7790377,-81.1671523,N5P1G4,N5P,Loblaw
+68,42.7790377-81.1671523Walmart,Wal-Mart Pharmacy,St. Thomas,Ontario,Yes,1063 Talbot St Unit 60,2024-12-05,42.7790377,-81.1671523,N5P1G4,N5P,Walmart
+71,42.7854236-80.9821054Other/Independent,NoFrills Pharmacy,Aylmer,Ontario,Yes,657 John St,2022-07-19,42.7854236,-80.9821054,N5H3J1,N5H,Other/Independent
+72,42.8090362-81.5364685Pharmasave,Pharmasave,Muncey,Ontario,Yes,77 Anishnabeg Dr,2022-09-09,42.8090362,-81.5364685,N0L1Y0,N0L,Pharmasave
+73,42.8472358-80.307992Shoppers Drug Mart,Shoppers Drug Mart,Simcoe,Ontario,Yes,470 Norfolk St,2024-02-25,42.8472358,-80.307992,N3Y3P7,N3Y,Shoppers Drug Mart
+75,42.855743-80.6912372Other/Independent,Tillsonburg Remedy's Rx,Tillsonburg,Ontario,Yes,400 Simcoe St,2024-09-07,42.855743,-80.6912372,N4G4X1,N4G,Other/Independent
+79,42.878194-80.7450938Other/Independent,Tillsonburg Care Pharmacy,Tillsonburg,Ontario,Yes,594 Broadway St Unit 1,2024-09-06,42.878194,-80.7450938,N4G3S8,N4G,Other/Independent
+80,42.8826551-81.0888747Other/Independent,Belmont Pharmacy,Belmont,Ontario,Yes,14091 Belmont Rd,2021-05-16,42.8826551,-81.0888747,N0L1B0,N0L,Other/Independent
+84,42.9051171-78.9256419Rexall,Rexall,Fort Erie,Ontario,Yes,310 Garrison Rd Unit C,2022-12-04,42.9051171,-78.9256419,L2A1M7,L2A,Rexall
+85,42.9052732-78.9619671Other/Independent,Crescent Park Pharmacy,Fort Erie,Ontario,Yes,1264 Garrison Rd Unit 5,2021-08-19,42.9052732,-78.9619671,L2A1P1,L2A,Other/Independent
+94,42.945741-81.4311175Other/Independent,Komoka Pharmacy,Komoka,Ontario,Yes,9952 Glendon Dr Unit 3,2022-02-10,42.945741,-81.4311175,N0L1R0,N0L,Other/Independent
+95,42.9477909-81.2923131IDA,Dini IDA Pharmacy,London,Ontario,Yes,785 Wonderland Rd S Unit C2,2021-08-27,42.9477909,-81.2923131,N6K1M6,N6K,IDA
+97,42.9578-81.2599Loblaw,Drug Store Pharmacy,London,Ontario,Yes,7 Baseline Rd E,2021-09-08,42.9578,-81.2599,N6C5Z8,N6C,Loblaw
+101,42.9592678-81.6216919Shoppers Drug Mart,Shoppers Drug Mart,Strathroy,Ontario,Yes,78 Front St E,2024-03-07,42.9592678,-81.6216919,N7G1Y7,N7G,Shoppers Drug Mart
+103,42.9668463-81.6313682Loblaw,Loblaw Pharmacy,Strathroy,Ontario,Yes,626 Victoria St,2022-04-10,42.9668463,-81.6313682,N7G3C1,N7G,Loblaw
+106,42.9774048-82.3658701Loblaw,Loblaw Pharmacy,Sarnia,Ontario,Yes,600 Murphy Rd,2022-04-06,42.9774048,-82.3658701,N7S2X1,N7S,Loblaw
+110,42.9840053-81.2456735Other/Independent,Medpoint Care Pharmacy,London,Ontario,Yes,355 Wellington St Unit 169,2022-05-26,42.9840053,-81.2456735,N6A3N7,N6A,Other/Independent
+111,42.9844495-81.2502828Shoppers Drug Mart,Shoppers Drug Mart,London,Ontario,Yes,431 Richmond St Unit 100,2023-09-22,42.9844495,-81.2502828,N6A6E2,N6A,Shoppers Drug Mart
+117,42.9911469-81.1686344Shoppers Drug Mart,Shoppers Drug Mart,London,Ontario,Yes,142 Clarke Rd,2023-09-20,42.9911469,-81.1686344,N5W5E1,N5W,Shoppers Drug Mart
+118,42.9990109-81.3292167Other/Independent,TMC Pharmacy,London,Ontario,Yes,990 Gainsborough Rd,2024-09-09,42.9990109,-81.3292167,N6H5L4,N6H,Other/Independent
+119,42.9996199-81.2378412Shoppers Drug Mart,Shoppers Drug Mart,London,Ontario,Yes,759 Adelaide St N,2023-09-17,42.9996199,-81.2378412,N5Y2L7,N5Y,Shoppers Drug Mart
+125,43.003589-81.2277443Other/Independent,Bellwood Pharmacy,London,Ontario,Yes,900 Oxford St E Unit 14B,2021-05-15,43.003589,-81.2277443,N5Y5A1,N5Y,Other/Independent
+128,43.0127361-81.2428052Shoppers Drug Mart,Shoppers Drug Mart,London,Ontario,Yes,1118 Adelaide St N,2023-09-29,43.0127361,-81.2428052,N5Y2N5,N5Y,Shoppers Drug Mart
+129,43.014907-79.249869Shoppers Drug Mart,Shoppers Drug Mart,Welland,Ontario,Yes,800 Niagara St N Unit H2,2024-06-01,43.014907,-79.249869,L3C5Z4,L3C,Shoppers Drug Mart
+130,43.0171463-79.2516344Loblaw,Loblaw Pharmacy,Welland,Ontario,Yes,821 Niagara St N,2022-04-15,43.0171463,-79.2516344,L3C1M4,L3C,Loblaw
+133,43.0202323-81.3097654Loblaw,Drugstore Pharmacy,London,Ontario,Yes,599 Fanshawe Park Rd W,2021-09-27,43.0202323,-81.3097654,N6G5B3,N6G,Loblaw
+134,43.025599-81.2783801Shoppers Drug Mart,Shoppers Drug Mart,London,Ontario,Yes,1680 Richmond St N Unit L104,2023-09-24,43.025599,-81.2783801,N6G3Y9,N6G,Shoppers Drug Mart
+135,43.02789-82.255101Other/Independent,Bright's Grove Family Pharmacy,Brights Grove,Ontario,Yes,2670 New Lakeshore Rd,2021-06-08,43.02789,-82.255101,N0N1C0,N0N,Other/Independent
+137,43.0317725-80.8932912Other/Independent,Ingersoll Remedy's Rx,Ingersoll,Ontario,Yes,273 King St W,2022-01-15,43.0317725,-80.8932912,N5C2K9,N5C,Other/Independent
+139,43.0380604-80.881612Pharmasave,Ingersoll Pharmasave,Ingersoll,Ontario,Yes,19 King St Unit 1,2022-01-14,43.0380604,-80.881612,N5C1G3,N5C,Pharmasave
+141,43.0439591-79.2963616IDA,Boggio Fonthill Pharmacy IDA,Fonthill,Ontario,Yes,155 Hwy 20 W,2021-05-24,43.0439591,-79.2963616,L0S1E0,L0S,IDA
+142,43.0455255-79.2826341Shoppers Drug Mart,Shoppers Drug Mart,Fonthill,Ontario,Yes,20 Hwy 20 E,2023-08-01,43.0455255,-79.2826341,L0S1E0,L0S,Shoppers Drug Mart
+143,43.0478584-79.2745484Other/Independent,Family Health Pharmacy Pelham,Fonthill,Ontario,Yes,130 Hwy 20 Unit A6,2021-11-01,43.0478584,-79.2745484,L0S1E6,L0S,Other/Independent
+145,43.0671835-79.1196087Walmart,Wal-Mart Pharmacy,Niagara Falls,Ontario,Yes,7481 Oakwood Dr,2024-11-16,43.0671835,-79.1196087,L2E6S5,L2E,Walmart
+146,43.0779821-81.3851136Other/Independent,Ilderton Medical Pharmacy,Ilderton,Ontario,Yes,13187 Ilderton Rd Unit 1,2022-01-13,43.0779821,-81.3851136,N0M2A0,N0M,Other/Independent
+151,43.0969862-82.001092Other/Independent,Forest Pharmacy,Forest,Ontario,Yes,19 King St W,2021-11-17,43.0969862,-82.001092,N0N1J0,N0N,Other/Independent
+152,43.0988574-79.5461626Other/Independent,Rx Drug Mart,Smithville,Ontario,Yes,144 Griffin St,2023-04-25,43.0988574,-79.5461626,L0R2A0,L0R,Other/Independent
+153,43.099894-79.1242368Shoppers Drug Mart,Shoppers Drug Mart,Niagara Falls,Ontario,Yes,5125 Montrose Rd,2023-11-25,43.099894,-79.1242368,L2H1K7,L2H,Shoppers Drug Mart
+154,43.1026318-79.1130428Loblaw,Loblaw Pharmacy,Niagara Falls,Ontario,Yes,6940 Morrison St,2022-03-27,43.1026318,-79.1130428,L2E7K5,L2E,Loblaw
+156,43.119109-79.1013079Shoppers Drug Mart,Shoppers Drug Mart,Niagara Falls,Ontario,Yes,3701 Portage Rd Unit 1,2023-11-26,43.119109,-79.1013079,L2J2K8,L2J,Shoppers Drug Mart
+157,43.1205529-79.8042467Other/Independent,Binbrook Pharmacy,Binbrook,Ontario,Yes,3011 Hwy 56,2021-05-18,43.1205529,-79.8042467,L0R1C0,L0R,Other/Independent
+158,43.1297934-80.7629234Shoppers Drug Mart,Shoppers Drug Mart,Woodstock,Ontario,Yes,333 Dundas St,2024-06-28,43.1297934,-80.7629234,N4S1B5,N4S,Shoppers Drug Mart
+160,43.1348419-80.7326153Shoppers Drug Mart,Shoppers Drug Mart,Woodstock,Ontario,Yes,959 Dundas St E,2024-06-27,43.1348419,-80.7326153,N4S1H2,N4S,Shoppers Drug Mart
+161,43.1354121-80.7313161Loblaw,Zehrs Pharmacy,Woodstock,Ontario,Yes,969 Dundas St,2025-02-23,43.1354121,-80.7313161,N4S1H2,N4S,Loblaw
+166,43.1513632-80.7719089Other/Independent,Lakeview Pharmacy,Woodstock,Ontario,Yes,805 Vansittart Ave Unit 2,2022-02-16,43.1513632,-80.7719089,N4T0L6,N4T,Other/Independent
+167,43.1538816-79.2665606Loblaw,Real Canadian Superstore,St. Catharines,Ontario,Yes,411 Louth St,2022-10-28,43.1538816,-79.2665606,L2S4A2,L2S,Loblaw
+168,43.154352-79.2692223Walmart,Wal-Mart Pharmacy,St. Catharines,Ontario,Yes,420 Vansickle Rd,2024-12-04,43.154352,-79.2692223,L2R6P9,L2R,Walmart
+169,43.1561634-79.2699316Shoppers Drug Mart,Shoppers Drug Mart,St. Catharines,Ontario,Yes,275 Fourth Ave,2024-02-27,43.1561634,-79.2699316,L2R6P9,L2R,Shoppers Drug Mart
+170,43.1631825-81.6836802Other/Independent,Mcintyre Pharmacy,Parkhill,Ontario,Yes,238 Main St,2022-05-15,43.1631825,-81.6836802,N0M2K0,N0M,Other/Independent
+171,43.1677441-79.47698Shoppers Drug Mart,Shoppers Drug Mart,Beamsville,Ontario,Yes,5005 Serena Dr,2023-05-26,43.1677441,-79.47698,L0R1B4,L0R,Shoppers Drug Mart
+172,43.1712173-80.2495657Loblaw,Drugstore Pharmacy,Brantford,Ontario,Yes,410 Fairview Dr,2021-09-20,43.1712173,-80.2495657,N3R7N7,N3R,Loblaw
+175,43.1813869-80.2786487Loblaw,Loblaw Pharmacy,Brantford,Ontario,Yes,290 King George Rd,2022-03-03,43.1813869,-80.2786487,N3R5L8,N3R,Loblaw
+176,43.185202-79.2077514Other/Independent,HealthMax Pharmacy,St. Catharines,Ontario,Yes,366 Bunting Rd Unit 1,2021-12-30,43.185202,-79.2077514,L2M3Y6,L2M,Other/Independent
+178,43.1904028-79.2270519Shoppers Drug Mart,Shoppers Drug Mart,St. Catharines,Ontario,Yes,387 Scott St Unit 1,2024-02-28,43.1904028,-79.2270519,L2M3W2,L2M,Shoppers Drug Mart
+179,43.1929152-79.8105008Pharmasave,Paramount Pharmasave,Stoney Creek,Ontario,Yes,1795 Stone Church Rd E Unit 5001,2022-08-09,43.1929152,-79.8105008,L8J0B4,L8J,Pharmasave
+180,43.1929824-79.8522568Other/Independent,Rymal Gage Pharmacy,Hamilton,Ontario,Yes,905 Rymal Rd E Unit 153,2023-04-27,43.1929824,-79.8522568,L8W3M2,L8W,Other/Independent
+183,43.1966612-79.567614Shoppers Drug Mart,Shoppers Drug Mart,Grimsby,Ontario,Yes,42 St Andrews Ave Unit 1,2023-08-07,43.1966612,-79.567614,L3M3S2,L3M,Shoppers Drug Mart
+186,43.2016524-79.8915437Other/Independent,People's Pharmachoice,Hamilton,Ontario,Yes,30 Rymal Rd E Unit 4,2022-08-16,43.2016524,-79.8915437,L9B1T7,L9B,Other/Independent
+188,43.2045328-79.5945331Loblaw,Real Canadian Superstore,Grimsby,Ontario,Yes,361 S Service Rd,2022-10-18,43.2045328,-79.5945331,L3M4E8,L3M,Loblaw
+189,43.2057906-79.8648585Other/Independent,Stonechurch Pharmacy,Hamilton,Ontario,Yes,25 Redmond Dr Unit 3,2024-08-09,43.2057906,-79.8648585,L8W3K7,L8W,Other/Independent
+190,43.2099142-79.9263728Other/Independent,Westmount Pharmacy,Hamilton,Ontario,Yes,723 Rymal Rd W Unit 200,2025-01-22,43.2099142,-79.9263728,L9B2N9,L9B,Other/Independent
+191,43.21261-80.388815Sobeys,Sobeys Pharmacy,Paris,Ontario,Yes,307 Grand River St N,2024-07-23,43.21261,-80.388815,N3L2N9,N3L,Sobeys
+193,43.2153311-79.9893781Loblaw,Drugstore Pharmacy,Ancaster,Ontario,Yes,54 Wilson St W,2021-09-15,43.2153311,-79.9893781,L9G1N2,L9G,Loblaw
+194,43.217688-79.919558Rexall,Rexall,Hamilton,Ontario,Yes,930 Upper Paradise Rd 13,2022-12-16,43.217688,-79.919558,L9B2N1,L9B,Rexall
+197,43.220512-79.907289Shoppers Drug Mart,Shoppers Drug Mart,Hamilton,Ontario,Yes,1300 Garth St,2023-08-15,43.220512,-79.907289,L9C4L7,L9C,Shoppers Drug Mart
+198,43.222264-79.853132Walmart,Wal-Mart Pharmacy,Hamilton,Ontario,Yes,499 Mohawk Rd E,2024-10-22,43.222264,-79.853132,L8V4L7,L8V,Walmart
+201,43.2263173-79.976931Other/Independent,Rastin's Wilson St. Pharmacy,Ancaster,Ontario,Yes,323 Wilson St E,2022-10-17,43.2263173,-79.976931,L9G4A8,L9G,Other/Independent
+204,43.2298044-79.8792324Other/Independent,Food Basics Pharmacy,Hamilton,Ontario,Yes,751 Upper James St,2021-11-09,43.2298044,-79.8792324,L9C3A1,L9C,Other/Independent
+209,43.2330512-79.9230305Shoppers Drug Mart,Shoppers Drug Mart,Hamilton,Ontario,Yes,801 Mohawk Rd W,2023-08-13,43.2330512,-79.9230305,L9C6C2,L9C,Shoppers Drug Mart
+211,43.2339729-79.9106616Rexall,Rexall,Hamilton,Ontario,Yes,640 Mohawk Rd W Unit 21,2022-12-13,43.2339729,-79.9106616,L9C1X6,L9C,Rexall
+212,43.2344404-79.8781618Walmart,Wal-Mart Pharmacy,Hamilton,Ontario,Yes,675 Upper James St,2024-10-21,43.2344404,-79.8781618,L9C2Z5,L9C,Walmart
+217,43.2414738-79.7536566Walmart,Wal-Mart Pharmacy,Stoney Creek,Ontario,Yes,500 Centennial Parkway N,2024-12-06,43.2414738,-79.7536566,L8E0G2,L8E,Walmart
+221,43.2521461-79.8140907Walmart,Wal-Mart Pharmacy,Hamilton,Ontario,Yes,1115 Barton St E,2024-10-20,43.2521461,-79.8140907,L8H2V2,L8H,Walmart
+222,43.2531598-79.8587006Other/Independent,First Place Pharmacy,Hamilton,Ontario,Yes,350 King St E Unit 117,2021-11-06,43.2531598,-79.8587006,L8N3Y3,L8N,Other/Independent
+224,43.2540434-79.0719516Other/Independent,Simpson's Apothecary,Niagara On The Lake,Ontario,Yes,233 King St Unit 2,2024-07-03,43.2540434,-79.0719516,L0S1J0,L0S,Other/Independent
+226,43.257057-79.9422669Shoppers Drug Mart,Shoppers Drug Mart,Dundas,Ontario,Yes,101 Osler Dr Unit 102,2023-07-16,43.257057,-79.9422669,L9H4H4,L9H,Shoppers Drug Mart
+229,43.2584184-79.8708274Rexall,Rexall,Hamilton,Ontario,Yes,2 King St W Unit 18,2022-12-11,43.2584184,-79.8708274,L8P1A1,L8P,Rexall
+231,43.2614289-79.8895317Loblaw,Loblaw Pharmacy,Hamilton,Ontario,Yes,50 Dundurn St,2022-03-10,43.2614289,-79.8895317,L8P4W3,L8P,Loblaw
+234,43.2668435-79.9581774Pharmasave,Pharmasave,Dundas,Ontario,Yes,105 King St W Unit B,2022-09-07,43.2668435,-79.9581774,L9H1V1,L9H,Pharmasave
+236,43.3062469-79.8548605Other/Independent,Plains Road West Pharmacy,Burlington,Ontario,Yes,29 Plains Rd W,2022-09-29,43.3062469,-79.8548605,L7T1E8,L7T,Other/Independent
+237,43.3102882-81.7510959Shoppers Drug Mart,Shoppers Drug Mart,Grand Bend,Ontario,Yes,65 Main St E,2023-08-05,43.3102882,-81.7510959,N0M1T0,N0M,Shoppers Drug Mart
+238,43.31922-79.83685Shoppers Drug Mart,Shoppers Drug Mart,Burlington,Ontario,Yes,503 Plains Rd E Unit 501,2023-06-29,43.31922,-79.83685,L7T2E2,L7T,Shoppers Drug Mart
+240,43.3317334-79.8974921Shoppers Drug Mart,Shoppers Drug Mart,Waterdown,Ontario,Yes,25 Hamilton St N,2024-05-25,43.3317334,-79.8974921,L0R2H6,L0R,Shoppers Drug Mart
+241,43.336838-79.904292Other/Independent,Waterdown Pharmacy,Waterdown,Ontario,Yes,145 Hamilton St N Unit 4,2025-01-06,43.336838,-79.904292,L8B0Y7,L8B,Other/Independent
+247,43.3485131-79.7935979Shoppers Drug Mart,Shoppers Drug Mart,Burlington,Ontario,Yes,777 Guelph Line Unit D001,2023-06-26,43.3485131,-79.7935979,L7R3N2,L7R,Shoppers Drug Mart
+251,43.3592744-80.2940617Shoppers Drug Mart,Shoppers Drug Mart,Cambridge,Ontario,Yes,115 Dundas St Unit 1,2023-07-05,43.3592744,-80.2940617,N1R5T8,N1R,Shoppers Drug Mart
+252,43.3625826-81.4825624Guardian,Exeter Guardian Pharmacy,Exeter,Ontario,Yes,44 Thames Rd E Unit 38,2021-10-26,43.3625826,-81.4825624,N0M1S3,N0M,Guardian
+255,43.3667792-79.8224957Loblaw,Loblaw Pharmacy,Burlington,Ontario,Yes,2025 Guelph Line,2022-03-06,43.3667792,-79.8224957,L7P4M8,L7P,Loblaw
+257,43.3681307-79.7328835Shoppers Drug Mart,Shoppers Drug Mart,Burlington,Ontario,Yes,5353 Lakeshore Rd,2023-06-28,43.3681307,-79.7328835,L7L1C8,L7L,Shoppers Drug Mart
+265,43.3819193-80.4276536Other/Independent,Doon Mills Pharmacy,Kitchener,Ontario,Yes,260 Doon S Dr Unit 4,2021-08-31,43.3819193,-80.4276536,N2P2L8,N2P,Other/Independent
+267,43.390191-80.3459921Other/Independent,Bishop Pharmacy Pharmachoice,Cambridge,Ontario,Yes,1515 King St E Unit 111,2021-05-20,43.390191,-80.3459921,N3H3R6,N3H,Other/Independent
+270,43.393728-79.823521Shoppers Drug Mart,Shoppers Drug Mart,Burlington,Ontario,Yes,3051 Walkers Line,2023-06-30,43.393728,-79.823521,L7M0W3,L7M,Shoppers Drug Mart
+271,43.3939692-80.3163143Loblaw,Zehrs Pharmacy,Cambridge,Ontario,Yes,400 Conestoga Blvd,2025-02-15,43.3939692,-80.3163143,N1R7L7,N1R,Loblaw
+273,43.3954137-79.7122048Rexall,Rexall,Oakville,Ontario,Yes,2441 Lakeshore Rd W Unit 2,2023-01-23,43.3954137,-79.7122048,L6L1H6,L6L,Rexall
+275,43.3969689-80.3442712Other/Independent,Langs Medical Pharmacy,Cambridge,Ontario,Yes,1145 Concession Rd,2022-02-17,43.3969689,-80.3442712,N3H4L5,N3H,Other/Independent
+276,43.3972487-79.7970157Shoppers Drug Mart,Shoppers Drug Mart,Burlington,Ontario,Yes,2080 Appleby Line,2023-07-02,43.3972487,-79.7970157,L7L6M6,L7L,Shoppers Drug Mart
+278,43.4042065-80.6696421Other/Independent,Baden Village Pharmacy,Baden,Ontario,Yes,18 Snyders Rd Unit 6A,2021-05-06,43.4042065,-80.6696421,N3A0A7,N3A,Other/Independent
+279,43.4051209-79.8074362Other/Independent,Millcroft Pharmacy,Burlington,Ontario,Yes,2500 Appleby Line Unit D10,2022-06-19,43.4051209,-79.8074362,L7L0A2,L7L,Other/Independent
+280,43.4055824-80.5012615Other/Independent,Williamsburg Pharmacy,Kitchener,Ontario,Yes,1187 Fischer Hallman Rd Unit 440,2025-02-02,43.4055824,-80.5012615,N2E4H9,N2E,Other/Independent
+281,43.4055824-80.5012615Sobeys,Sobeys Pharmacy,Kitchener,Ontario,Yes,1187 Fischer Hallman Rd,2024-07-16,43.4055824,-80.5012615,N2E4H9,N2E,Sobeys
+282,43.4061743-79.8116101Walmart,Wal-Mart Pharmacy,Burlington,Ontario,Yes,4515 Dundas St W,2024-10-12,43.4061743,-79.8116101,L7M5B4,L7M,Walmart
+285,43.4079555-79.8085515Shoppers Drug Mart,Shoppers Drug Mart,Burlington,Ontario,Yes,3035 Appleby Line,2023-07-01,43.4079555,-79.8085515,L7M0V7,L7M,Shoppers Drug Mart
+288,43.4136656-80.4722297Other/Independent,Country Hills Pharmacy,Kitchener,Ontario,Yes,153 Country Hill Dr Unit 5,2021-08-14,43.4136656,-80.4722297,N2E2G7,N2E,Other/Independent
+290,43.4175128-80.3090465Other/Independent,Hespeler Pharmacy,Cambridge,Ontario,Yes,100 Jamieson Parkway Unit 13,2022-01-03,43.4175128,-80.3090465,N3C4B3,N3C,Other/Independent
+291,43.419017-80.469675Other/Independent,Cook's Pharmacy,Kitchener,Ontario,Yes,1450 Block Line Rd Unit 201,2021-07-05,43.419017,-80.469675,N2C0A5,N2C,Other/Independent
+297,43.4266049-80.4386855Walmart,Wal-Mart Pharmacy,Kitchener,Ontario,Yes,2960 Kingsway Dr,2024-10-28,43.4266049,-80.4386855,N2C1X1,N2C,Walmart
+300,43.4342044-80.5166363Shoppers Drug Mart,Shoppers Drug Mart,Kitchener,Ontario,Yes,563 Highland Rd W,2023-09-09,43.4342044,-80.5166363,N2M5K2,N2M,Shoppers Drug Mart
+303,43.4380766-79.677055Loblaw,The Drug Store Pharmacy,Oakville,Ontario,Yes,173 Lakeshore Rd W,2024-08-26,43.4380766,-79.677055,L6K1E7,L6K,Loblaw
+305,43.438223-80.4597257Other/Independent,Rockway Pharmacy,Kitchener,Ontario,Yes,815 Weber St E Unit 5,2023-04-19,43.438223,-80.4597257,N2H1H5,N2H,Other/Independent
+307,43.4425165-80.4149604Other/Independent,Fairway Lackner Pharmacy,Kitchener,Ontario,Yes,900 Fairway Crescent Unit 5,2021-10-28,43.4425165,-80.4149604,N2A0A1,N2A,Other/Independent
+309,43.4453954-80.579634Costco,Costco Pharmacy,Waterloo,Ontario,Yes,930 Erb St W RR 3,2021-08-08,43.4453954,-80.579634,N2J3Z4,N2J,Costco
+311,43.4465199-79.6888853Shoppers Drug Mart,Shoppers Drug Mart,Oakville,Ontario,Yes,550 Kerr St,2023-12-16,43.4465199,-79.6888853,L6K3C7,L6K,Shoppers Drug Mart
+312,43.4472708-79.7053674Metro,Metro Pharmacy,Oakville,Ontario,Yes,280 N Service Rd Unit 1A,2022-06-11,43.4472708,-79.7053674,L6M2S2,L6M,Metro
+313,43.4477894-80.5147582Other/Independent,Belgage Pharmacy,Kitchener,Ontario,Yes,525 Belmont Ave W Unit 211,2021-05-14,43.4477894,-80.5147582,N2M5E2,N2M,Other/Independent
+314,43.4497724-79.7585629Shoppers Drug Mart,Shoppers Drug Mart,Oakville,Ontario,Yes,2501 Third Line Building B,2023-12-18,43.4497724,-79.7585629,L6M5A9,L6M,Shoppers Drug Mart
+316,43.4562537-80.4296965Rexall,Rexall,Kitchener,Ontario,Yes,1405 Ottawa St N Unit 16,2022-12-29,43.4562537,-80.4296965,N2A3Z1,N2A,Rexall
+318,43.4570249-80.4726292Other/Independent,Frederick Mall Pharmacy,Kitchener,Ontario,Yes,385 Frederick St Unit 15,2021-11-19,43.4570249,-80.4726292,N2H2P2,N2H,Other/Independent
+321,43.461607-79.6868686Shoppers Drug Mart,Shoppers Drug Mart,Oakville,Ontario,Yes,240 Leighland Ave Unit 109A,2023-12-11,43.461607,-79.6868686,L6H3H6,L6H,Shoppers Drug Mart
+322,43.4616605-80.5370735Other/Independent,Westmount Place Pharmacy,Waterloo,Ontario,Yes,50 Wmount Rd N,2025-01-23,43.4616605,-80.5370735,N2L2R5,N2L,Other/Independent
+323,43.4636306-80.5234326Shoppers Drug Mart,Shoppers Drug Mart,Waterloo,Ontario,Yes,75 King St S Suite 42-43,2024-05-27,43.4636306,-80.5234326,N2J1P2,N2J,Shoppers Drug Mart
+326,43.4671912-79.7453665Loblaw,Loblaw Pharmacy,Oakville,Ontario,Yes,493 Dundas St W,2022-03-28,43.4671912,-79.7453665,L6M4M2,L6M,Loblaw
+327,43.4676299-81.1975062IDA,Walther's IDA Pharmacy,Mitchell,Ontario,Yes,40 Ontario Rd,2025-01-05,43.4676299,-81.1975062,N0K1N0,N0K,IDA
+330,43.4722786-80.5934358Shoppers Drug Mart,Shoppers Drug Mart,Waterloo,Ontario,Yes,600 Laurelwood Dr,2024-05-29,43.4722786,-80.5934358,N2V0A2,N2V,Shoppers Drug Mart
+334,43.482577-80.4166341Other/Independent,Breslau Pharmacy & Wellness Centre,Breslau,Ontario,Yes,11 Woolwich St N,2021-06-06,43.482577,-80.4166341,N0B1M0,N0B,Other/Independent
+336,43.483084-80.5059867Loblaw,Zehrs Pharmacy,Waterloo,Ontario,Yes,315 Lincoln Rd,2025-02-22,43.483084,-80.5059867,N2J4H7,N2J,Loblaw
+338,43.483727-79.6945815Shoppers Drug Mart,Shoppers Drug Mart,Oakville,Ontario,Yes,1011 Upper Middle Rd Unit D5,2023-12-14,43.483727,-79.6945815,L6H4L3,L6H,Shoppers Drug Mart
+339,43.4838817-79.7222847Loblaw,Real Canadian Superstore,Oakville,Ontario,Yes,201 Oak Park Blvd,2022-10-24,43.4838817,-79.7222847,L6H7T4,L6H,Loblaw
+340,43.4840268-79.7189493Loblaw,Real Canadian Superstore,Oakville,Ontario,Yes,201 Oak Walk Dr,2022-10-25,43.4840268,-79.7189493,L6H7T4,L6H,Loblaw
+342,43.4872338-79.7163465Other/Independent,White Oaks Pharmacy,Oakville,Ontario,Yes,360 Dundas St E Unit B6,2025-01-28,43.4872338,-79.7163465,L6H6Z9,L6H,Other/Independent
+347,43.4964037-80.5505957Rexall,Rexall,Waterloo,Ontario,Yes,585 Weber St N,2023-03-26,43.4964037,-80.5505957,N2V1V8,N2V,Rexall
+349,43.4971481-79.868498Other/Independent,Origins Pharmacy Milton,Milton,Ontario,Yes,725 Bronte St S Units 2 & 3,2022-08-02,43.4971481,-79.868498,L9T9K1,L9T,Other/Independent
+350,43.4975595-79.8740899Shoppers Drug Mart,Shoppers Drug Mart,Milton,Ontario,Yes,6951 Derry Rd W,2023-10-17,43.4975595,-79.8740899,L9T7H5,L9T,Shoppers Drug Mart
+351,43.497886-80.52565Shoppers Drug Mart,Shoppers Drug Mart,Waterloo,Ontario,Yes,550 King St N Major 4A,2024-05-30,43.497886,-80.52565,N2L5W6,N2L,Shoppers Drug Mart
+355,43.4991677-79.6502461Other/Independent,Clear View Pharmacy,Oakville,Ontario,Yes,1140 Winston Churchill Blvd Unit A6,2021-06-30,43.4991677,-79.6502461,L6J0A3,L6J,Other/Independent
+357,43.5028969-80.1875447Other/Independent,Westminster Square Remedy's Rx,Guelph,Ontario,Yes,33 Farley Dr Unit 4,2025-01-21,43.5028969,-80.1875447,N1L0B7,N1L,Other/Independent
+358,43.5031154-80.1898604Loblaw,Zehrs Pharmacy,Guelph,Ontario,Yes,124 Clair Rd E,2025-02-18,43.5031154,-80.1898604,N1L0G6,N1L,Loblaw
+366,43.5095219-79.8721649Other/Independent,Miltowne Pharmacy,Milton,Ontario,Yes,311 Commercial St Unit 210,2022-06-20,43.5095219,-79.8721649,L9T3Z9,L9T,Other/Independent
+367,43.5113047-79.8553737Other/Independent,Holly Pharmacy,Milton,Ontario,Yes,611 Holly Ave Unit 104,2022-01-09,43.5113047,-79.8553737,L9T0R3,L9T,Other/Independent
+369,43.5137432-80.2181014Loblaw,Drugstore Pharmacy,Guelph,Ontario,Yes,160 Kortright Rd W,2021-09-23,43.5137432,-80.2181014,N1G4W2,N1G,Loblaw
+370,43.5143315-79.8826537Shoppers Drug Mart,Shoppers Drug Mart,Milton,Ontario,Yes,265 Main St E Unit 104,2023-10-18,43.5143315,-79.8826537,L9T1P1,L9T,Shoppers Drug Mart
+371,43.5194199-79.639244Rexall,Rexall,Mississauga,Ontario,Yes,1375 Sdown Rd Unit 1,2023-01-11,43.5194199,-79.639244,L5J2Z1,L5J,Rexall
+374,43.5212537-80.2127852Other/Independent,University Square Pharmacy,Guelph,Ontario,Yes,987 Gordon St Unit 8,2024-09-22,43.5212537,-80.2127852,N1G4W3,N1G,Other/Independent
+375,43.5216075-80.4983388Other/Independent,Carriage Crossing Pharmacy,Waterloo,Ontario,Yes,105 Oak Park Dr Unit 4,2021-06-21,43.5216075,-80.4983388,N2K0B3,N2K,Other/Independent
+378,43.524095-79.6823651Other/Independent,Green Bay Pharmacy & Medical Centre,Mississauga,Ontario,Yes,3015 Winston Churchill Blvd Unit 101A,2021-12-16,43.524095,-79.6823651,L5L2V8,L5L,Other/Independent
+380,43.5262111-79.6805618Other/Independent,Surecare Pharmacy,Mississauga,Ontario,Yes,2575 Dundas St W Unit 15,2024-08-17,43.5262111,-79.6805618,L5K2M6,L5K,Other/Independent
+385,43.5381727-80.2789099Shoppers Drug Mart,Shoppers Drug Mart,Guelph,Ontario,Yes,104 Silver Creek Parkway,2023-08-08,43.5381727,-80.2789099,N1H7B4,N1H,Shoppers Drug Mart
+386,43.5411123-80.2437195Other/Independent,Royal City Pharmacy,Guelph,Ontario,Yes,84 Gordon St,2023-04-21,43.5411123,-80.2437195,N1H4H6,N1H,Other/Independent
+388,43.5435601-79.5941721Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,321 Lakeshore Rd W,2023-10-25,43.5435601,-79.5941721,L5H1G9,L5H,Shoppers Drug Mart
+389,43.5439603-79.6833601Walmart,Wal-Mart Pharmacy,Mississauga,Ontario,Yes,2160 Burnamthorpe Rd W,2024-11-07,43.5439603,-79.6833601,L5L5Z5,L5L,Walmart
+390,43.5442279-79.6836754Loblaw,Loblaw Pharmacy,Mississauga,Ontario,Yes,2150 Burnhamthorpe Rd,2022-03-20,43.5442279,-79.6836754,L5L3A2,L5L,Loblaw
+391,43.5458071-79.5921105Loblaw,Loblaw Pharmacy,Mississauga,Ontario,Yes,250 Lakeshore Rd W,2022-03-22,43.5458071,-79.5921105,L5H1G3,L5H,Loblaw
+392,43.5509635-79.6875701IDA,Erin Mills IDA Pharmacy,Mississauga,Ontario,Yes,4099 Erin Mills Parkway,2021-10-21,43.5509635,-79.6875701,L5L3P9,L5L,IDA
+394,43.5548975-79.714856Loblaw,Loblaw Pharmacy,Mississauga,Ontario,Yes,5010 Glen Erin Dr,2022-03-21,43.5548975,-79.714856,L5M6J3,L5M,Loblaw
+396,43.5583725-80.2696782Rexall,Rexall,Guelph,Ontario,Yes,666 Woolwich St Unit 140,2022-12-07,43.5583725,-80.2696782,N1H7G5,N1H,Rexall
+399,43.5587936-80.2477205Loblaw,Zehrs Pharmacy,Guelph,Ontario,Yes,297 Eramosa Rd,2025-02-19,43.5587936,-80.2477205,N1E2M7,N1E,Loblaw
+400,43.5591152-79.7447193Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,5602 Tenth Line W Unit 101,2023-11-14,43.5591152,-79.7447193,L5M5S5,L5M,Shoppers Drug Mart
+403,43.5595002-79.6576223Other/Independent,Woodland Village Pharmacy,Mississauga,Ontario,Yes,3353 The Credit Woodlands,2025-02-05,43.5595002,-79.6576223,L5C2K1,L5C,Other/Independent
+407,43.562699-79.6511316Other/Independent,Erindale Medical Pharmacy,Mississauga,Ontario,Yes,1101 Mcbride Ave,2021-10-22,43.562699,-79.6511316,L5C1M6,L5C,Other/Independent
+408,43.5655251-80.2810871Walmart,Wal-Mart Pharmacy,Guelph,Ontario,Yes,11 Woodlawn Rd W,2024-10-19,43.5655251,-80.2810871,N1H1G8,N1H,Walmart
+409,43.5677449-79.6335428Loblaw,Loblaw Pharmcy,Mississauga,Ontario,Yes,3045 Mavis Rd,2022-04-17,43.5677449,-79.6335428,L5C1T7,L5C,Loblaw
+410,43.5682703-79.6629285Other/Independent,Wellness Healthcare Pharmacy,Mississauga,Ontario,Yes,1170 Burnhamthorpe Rd W Unit 8,2025-01-13,43.5682703,-79.6629285,L5C4E6,L5C,Other/Independent
+411,43.568496-79.569047Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,579A Lakeshore Rd E,2023-11-01,43.568496,-79.569047,L5G1H9,L5G,Shoppers Drug Mart
+412,43.5719735-79.6269626Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,3029 Clayhill Rd,2023-11-09,43.5719735,-79.6269626,L5B4L2,L5B,Shoppers Drug Mart
+413,43.5746635-79.7394468Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,6040 Glen Erin Dr,2023-10-21,43.5746635,-79.7394468,L5N3M4,L5N,Shoppers Drug Mart
+414,43.5770557-79.6455893Other/Independent,Grand Park Pharmacy,Mississauga,Ontario,Yes,719 Central Parkway W Unit 207,2021-12-13,43.5770557,-79.6455893,L5B4L1,L5B,Other/Independent
+417,43.5795537-79.6816002Rexall,Rexall,Mississauga,Ontario,Yes,1240 Eglinton Ave W Unit B7,2023-01-13,43.5795537,-79.6816002,L5V1N3,L5V,Rexall
+420,43.5819795-79.7581215Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,6975 Meadowvale Town Centre Circle,2023-11-15,43.5819795,-79.7581215,L5N2W7,L5N,Shoppers Drug Mart
+422,43.5827346-79.7651334Other/Independent,Meadowvale Pharmacy,Mississauga,Ontario,Yes,6750 Winston Churchill Blvd Unit 9A,2022-05-17,43.5827346,-79.7651334,L5N4C4,L5N,Other/Independent
+423,43.5829407-79.6124406Other/Independent,NKS Health,Mississauga,Ontario,Yes,130 Dundas St E Unit 500,2022-07-06,43.5829407,-79.6124406,L5A3V8,L5A,Other/Independent
+424,43.583186-79.6382803Other/Independent,Unicare Pharmacy Of Mississauga,Mississauga,Ontario,Yes,325 Central Parkway W Unit 29,2024-09-20,43.583186,-79.6382803,L5B3X9,L5B,Other/Independent
+427,43.5837857-79.7784483Rexall,Rexall,Mississauga,Ontario,Yes,3221 Derry Rd W Unit 16,2023-01-10,43.5837857,-79.7784483,L5N7L7,L5N,Rexall
+428,43.5869617-79.6958408Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,5425 Creditview Rd Unit 1,2023-11-13,43.5869617,-79.6958408,L5V2P3,L5V,Shoppers Drug Mart
+429,43.5886613-79.7402504Pharmasave,Pharmasave Erin Creek Pharmacy,Mississauga,Ontario,Yes,6400 Millcreek Dr,2022-09-19,43.5886613,-79.7402504,L5N3E7,L5N,Pharmasave
+432,43.5930256-79.5689483Loblaw,Drug Store Pharmacy,Mississauga,Ontario,Yes,1250 S Service Rd,2021-09-10,43.5930256,-79.5689483,L5E1V4,L5E,Loblaw
+433,43.5930784-79.6424911Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,100 City Centre Dr Unit 1,2023-10-19,43.5930784,-79.6424911,L5B2C9,L5B,Shoppers Drug Mart
+435,43.5930846-79.5384814Rexall,Rexall,Toronto,Ontario,Yes,3701 Lake Shore Blvd W,2023-03-02,43.5930846,-79.5384814,M8W1P8,M8W,Rexall
+437,43.5938055-79.5407177Shoppers Drug Mart,Shoppers Drug Mart,Etobicoke,Ontario,Yes,3730 Lake Shore Blvd W Unit 102,2023-07-25,43.5938055,-79.5407177,M8W1N6,M8W,Shoppers Drug Mart
+439,43.5946885-79.7790956Other/Independent,Extra Mile Pharmacy,Mississauga,Ontario,Yes,2980 Crosscurrent Dr Unit 6,2021-10-27,43.5946885,-79.7790956,L5N7C7,L5N,Other/Independent
+440,43.5953804-79.7856304Loblaw,Drugstore Pharmacy,Mississauga,Ontario,Yes,3050 Argentia Rd,2021-09-30,43.5953804,-79.7856304,L5N8E1,L5N,Loblaw
+441,43.597888-79.5944055Other/Independent,J. C. Pharmacy,Mississauga,Ontario,Yes,888 Dundas St E Unit B4-2,2022-01-20,43.597888,-79.5944055,L4Y4G6,L4Y,Other/Independent
+442,43.5983062-79.5178809Other/Independent,Unicare Pharmacy,Etobicoke,Ontario,Yes,3170 Lakeshore Blvd W,2024-09-19,43.5983062,-79.5178809,M8V3X8,M8V,Other/Independent
+443,43.5985631-79.6606921Other/Independent,Heritage Hills Pharmacy,Mississauga,Ontario,Yes,4646 Heritage Hills Blvd Unit 9-10,2022-01-02,43.5985631,-79.6606921,L5R1Y4,L5R,Other/Independent
+446,43.5999132-79.7102764Rexall,Rexall,Mississauga,Ontario,Yes,6045 Creditview Rd Unit F001,2023-01-15,43.5999132,-79.7102764,L5V2A8,L5V,Rexall
+449,43.6053492-79.5895341Other/Independent,Dixie 5 Pharmacy,Mississauga,Ontario,Yes,1185 Dundas St E,2021-08-29,43.6053492,-79.5895341,L4Y2C6,L4Y,Other/Independent
+451,43.607815-79.6176618Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,700 Burnhamthorpe Rd E,2023-10-31,43.607815,-79.6176618,L4Y2X3,L4Y,Shoppers Drug Mart
+453,43.6089475-79.5773763Walmart,Walmart,Mississauga,Ontario,Yes,1500 Dundas St E,2024-12-28,43.6089475,-79.5773763,L4X1L4,L4X,Walmart
+459,43.6132975-79.5984867Other/Independent,Apple-Hills Medical Pharmacy,Mississauga,Ontario,Yes,1221 Bloor St E,2021-04-28,43.6132975,-79.5984867,L4Y2N8,L4Y,Other/Independent
+461,43.6146565-79.6886222Loblaw,Drugstore Pharmacy,Mississauga,Ontario,Yes,5970 Mclaughlin Rd,2021-09-28,43.6146565,-79.6886222,L5R3X9,L5R,Loblaw
+462,43.6183959-79.5541975Walmart,Wal-Mart Pharmacy,Etobicoke,Ontario,Yes,165 N Queen St,2024-10-15,43.6183959,-79.5541975,M9C1A7,M9C,Walmart
+463,43.6198702-79.5231582Other/Independent,Kipling & Queensway Pharmacy,Etobicoke,Ontario,Yes,1255 The Queensway Unit 20,2022-02-08,43.6198702,-79.5231582,M8Z1S1,M8Z,Other/Independent
+465,43.6229404-79.482241Shoppers Drug Mart,Shoppers Drug Mart,Etobicoke,Ontario,Yes,2206 Lake Shore Blvd W,2023-07-29,43.6229404,-79.482241,M8V1A4,M8V,Shoppers Drug Mart
+466,43.622949-79.6013391Other/Independent,Professional Medical Pharmacy,Mississauga,Ontario,Yes,1420 Burnhamthorpe Rd E Unit 101,2022-10-10,43.622949,-79.6013391,L4X2Z9,L4X,Other/Independent
+468,43.6252506-79.6045863Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,4141 Dixie Rd,2023-11-05,43.6252506,-79.6045863,L4W1V5,L4W,Shoppers Drug Mart
+469,43.6296592-79.8771522Guardian,Mountainview Guardian Pharmacy,Georgetown,Ontario,Yes,378 Mountainview Rd S Unit 11,2022-06-27,43.6296592,-79.8771522,L7G0L5,L7G,Guardian
+475,43.6335496-79.77034IDA,Copper Ridge IDA Pharmacy,Brampton,Ontario,Yes,8015 Financial Dr Unit B2,2021-07-08,43.6335496,-79.77034,L6Y0B4,L6Y,IDA
+477,43.6348382-79.5627147Other/Independent,Glen Cade Pharmacy,Etobicoke,Ontario,Yes,290 The W Mall,2021-12-06,43.6348382,-79.5627147,M9C1C6,M9C,Other/Independent
+478,43.6351041-79.7871355Other/Independent,Lionhead Pharmacy,Brampton,Ontario,Yes,8405 Financial Dr Unit 5&6,2022-02-23,43.6351041,-79.7871355,L6Y1M1,L6Y,Other/Independent
+480,43.6367569-79.71948Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,7070 Mclaughlin Rd,2023-11-12,43.6367569,-79.71948,L5W1W7,L5W,Shoppers Drug Mart
+481,43.6375362-79.4886262Other/Independent,Clinicplus I.D.A. Pharmacy,Etobicoke,Ontario,Yes,10 Neighbourhood Lane Unit 103,2021-07-03,43.6375362,-79.4886262,M8Y0C5,M8Y,Other/Independent
+482,43.638124-79.390814Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,390 Queens Quay W Unit 110,2024-05-10,43.638124,-79.390814,M5V3A6,M5V,Shoppers Drug Mart
+489,43.6413056-79.5773763Shoppers Drug Mart,Shoppers Drug Mart,Etobicoke,Ontario,Yes,666 Burnhamthorpe Rd,2023-07-22,43.6413056,-79.5773763,M9C2Z4,M9C,Shoppers Drug Mart
+493,43.6438493-79.419533Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,1033 Queen St W Unit A,2024-03-23,43.6438493,-79.419533,M6J0A6,M6J,Shoppers Drug Mart
+497,43.6459076-79.3878224Rexall,Rexall,Toronto,Ontario,Yes,200 Wellington St W Unit 200,2023-03-15,43.6459076,-79.3878224,M5V3C7,M5V,Rexall
+499,43.6462412-79.3926619Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,388 King St W,2024-05-09,43.6462412,-79.3926619,M5V1K2,M5V,Shoppers Drug Mart
+500,43.6465177-79.3800808Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,200 Bay St,2024-04-05,43.6465177,-79.3800808,M5J2J3,M5J,Shoppers Drug Mart
+503,43.6476696-79.3810141Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,66 Wellington St W Unit 10,2024-04-30,43.6476696,-79.3810141,M5K1A1,M5K,Shoppers Drug Mart
+506,43.6481342-79.3794903Rexall,Rexall,Toronto,Ontario,Yes,199 Bay St Unit C186,2023-03-06,43.6481342,-79.3794903,M5L1E7,M5L,Rexall
+508,43.648507-79.5072291Other/Independent,Canadian Compounding Pharmacy,Toronto,Ontario,Yes,2920 Bloor St W,2021-06-14,43.648507,-79.5072291,M8X1B6,M8X,Other/Independent
+509,43.648566-79.381807Rexall,Rexall,Toronto,Ontario,Yes,1 First Canadian Place Unit CN1038,2023-03-20,43.648566,-79.381807,M5X1C8,M5X,Rexall
+510,43.6486711-79.8983397Pharmasave,Medtrust Pharmacy Pharmasave,Georgetown,Ontario,Yes,280 Guelph St Unit 23,2022-05-27,43.6486711,-79.8983397,L7G4B1,L7G,Pharmasave
+513,43.6492247-79.9266377Other/Independent,Georgetown Pharmacy,Georgetown,Ontario,Yes,118 Mill St Unit 101,2021-12-04,43.6492247,-79.9266377,L7G2C5,L7G,Other/Independent
+515,43.649696-79.4403251Other/Independent,Nofrills,Toronto,Ontario,Yes,222 Lansdowne Ave,2022-07-15,43.649696,-79.4403251,M6K3C6,M6K,Other/Independent
+516,43.6497566-79.3830492Rexall,Rexall,Toronto,Ontario,Yes,120 Adelaide St W Unit R28,2023-03-16,43.6497566,-79.3830492,M5H1T1,M5H,Rexall
+517,43.6498673-79.3918351Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,260 Queen St W,2024-03-27,43.6498673,-79.3918351,M5V1Z8,M5V,Shoppers Drug Mart
+522,43.6505493-79.3870518Rexall,Rexall,Toronto,Ontario,Yes,250 University Ave Unit 120,2023-03-13,43.6505493,-79.3870518,M5H3E5,M5H,Rexall
+524,43.6507187-79.372168Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,18 Jarvis St,2024-03-24,43.6507187,-79.372168,M5E1N1,M5E,Shoppers Drug Mart
+526,43.6510185-79.7584448Other/Independent,Dukh Bhanjan Pharmacy,Brampton,Ontario,Yes,475 Charolais Blvd Unit B5,2021-10-09,43.6510185,-79.7584448,L6Y0M2,L6Y,Other/Independent
+531,43.6533747-79.4667907Other/Independent,High Park Pharmacy,Toronto,Ontario,Yes,1938 Bloor St W,2022-01-04,43.6533747,-79.4667907,M6P3K8,M6P,Other/Independent
+533,43.6547754-79.7439307Rexall,Rexall,Brampton,Ontario,Yes,545 Steeles Ave W Unit A01,2022-11-22,43.6547754,-79.7439307,L6Y4E7,L6Y,Rexall
+536,43.6559004-79.5658755Shoppers Drug Mart,Shoppers Drug Mart,Etobicoke,Ontario,Yes,600 The E Mall Unit 1,2023-07-24,43.6559004,-79.5658755,M9B4S1,M9B,Shoppers Drug Mart
+538,43.6565539-79.3761617Metro,Metro Drugs,Toronto,Ontario,Yes,129 Dundas St E,2022-05-29,43.6565539,-79.3761617,M5B2N6,M5B,Metro
+543,43.658418-79.8169362Other/Independent,Credit Ridge Remedy’s Rx Pharmacy,Brampton,Ontario,Yes,9525 Mississauga Rd Unit 7,2021-08-17,43.658418,-79.8169362,L6X0Z8,L6X,Other/Independent
+544,43.6587064-79.4880308Other/Independent,Lingeman I.D.A. Pharmacy,Toronto,Ontario,Yes,411 Jane St,2022-02-22,43.6587064,-79.4880308,M6S3Z6,M6S,Other/Independent
+547,43.6604859-79.3844559Rexall,Rexall,Toronto,Ontario,Yes,777 Bay St Unit C 216,2023-03-19,43.6604859,-79.3844559,M5G2C8,M5G,Rexall
+554,43.6630098-79.3745838Other/Independent,Greendale Drugs,Toronto,Ontario,Yes,152 Carlton St,2021-12-19,43.6630098,-79.3745838,M5A2K1,M5A,Other/Independent
+555,43.6641764-79.7338533Loblaw,Loblaw Pharmacy,Brampton,Ontario,Yes,85 Steeles Ave W,2022-03-02,43.6641764,-79.7338533,L6Y0K3,L6Y,Loblaw
+557,43.6650475-79.387829Other/Independent,Sanomed Pharmacy & Compounding Centre,Toronto,Ontario,Yes,1000 Bay St,2023-05-02,43.6650475,-79.387829,M5S3A8,M5S,Other/Independent
+558,43.6652578-79.473926Other/Independent,Junction Chemist Pharmacy,Toronto,Ontario,Yes,17 St Johns Rd,2022-01-26,43.6652578,-79.473926,M6P1T7,M6P,Other/Independent
+560,43.6653855-79.4034771Pharmasave,Pharmasave - Spadina's Neighbourhood Pharmacy,Toronto,Ontario,Yes,720 Spadina Ave Unit 100,2022-09-11,43.6653855,-79.4034771,M5S2T9,M5S,Pharmasave
+563,43.6656651-79.4699271Other/Independent,Junction Pharmacy,Toronto,Ontario,Yes,3016 Dundas St W,2022-01-27,43.6656651,-79.4699271,M6P1Z3,M6P,Other/Independent
+570,43.6665441-79.4050565Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,360A Bloor St W,2024-05-12,43.6665441,-79.4050565,M5S1X1,M5S,Shoppers Drug Mart
+573,43.6672314-79.3812547Other/Independent,Well+Good Pharmacy,Toronto,Ontario,Yes,557 Church St,2025-01-09,43.6672314,-79.3812547,M4Y2E2,M4Y,Other/Independent
+576,43.6680541-79.4845815Walmart,Wal-Mart Pharmacy,Toronto,Ontario,Yes,2525 St Clair Ave W,2024-12-16,43.6680541,-79.4845815,M6N4Z5,M6N,Walmart
+583,43.6701586-79.3756379Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,565 Sherbourne St Unit 40,2024-04-17,43.6701586,-79.3756379,M4X1W7,M4X,Shoppers Drug Mart
+584,43.6701805-79.3002078Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,2000 Queen St E,2024-04-25,43.6701805,-79.3002078,M4L1J2,M4L,Shoppers Drug Mart
+585,43.6709974-79.3849884Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,20 Bloor St E,2024-04-18,43.6709974,-79.3849884,M4W3G7,M4W,Shoppers Drug Mart
+588,43.6719243-79.3782579Rexall,Rexall,Toronto,Ontario,Yes,345 Bloor St Unit 3,2023-02-27,43.6719243,-79.3782579,M4W1H7,M4W,Rexall
+589,43.6748733-79.8060052Other/Independent,James Potter Road Pharmacy,Brampton,Ontario,Yes,9715 James Potter Rd Unit 101,2022-01-23,43.6748733,-79.8060052,L6X3B9,L6X,Other/Independent
+592,43.6767537-79.3553553Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,235 Danforth Ave Unit 101,2024-03-26,43.6767537,-79.3553553,M4K1N2,M4K,Shoppers Drug Mart
+599,43.6805978-79.288133Pharmasave,Lawlor Pharmasave,Toronto,Ontario,Yes,944 Kingston Rd,2022-02-19,43.6805978,-79.288133,M4E1S7,M4E,Pharmasave
+601,43.6827442-79.4191262Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,523 St Clair Ave W,2024-05-02,43.6827442,-79.4191262,M6C1A1,M6C,Shoppers Drug Mart
+602,43.6830383-79.5658755Shoppers Drug Mart,Shoppers Drug Mart,Etobicoke,Ontario,Yes,415 The Wway,2023-07-21,43.6830383,-79.5658755,M9R1H5,M9R,Shoppers Drug Mart
+604,43.683628-80.4303485Other/Independent,Elora Apothecary,Elora,Ontario,Yes,115 Geddes St Unit B,2021-10-18,43.683628,-80.4303485,N0B1S0,N0B,Other/Independent
+605,43.6836958-79.8154916Loblaw,Drug Store Pharmacy,Brampton,Ontario,Yes,35 Worthington Ave,2021-09-05,43.6836958,-79.8154916,L7A2Y7,L7A,Loblaw
+608,43.685583-79.5240103Other/Independent,La Rose Pharmacy,Weston,Ontario,Yes,140 La Rose Ave,2022-02-13,43.685583,-79.5240103,M9P1B2,M9P,Other/Independent
+612,43.6884661-79.3938Rexall,Rexall,Toronto,Ontario,Yes,2 St Clair Ave E Unit C001,2023-03-11,43.6884661,-79.3938,M4T2T5,M4T,Rexall
+613,43.6884774-79.3907408Other/Independent,Ava Pharmacy,Toronto,Ontario,Yes,81 St Clair Ave E Unit 220,2021-05-03,43.6884774,-79.3907408,M4T1M7,M4T,Other/Independent
+615,43.6890937-79.4957704Other/Independent,Weston Jane Pharmacy,Toronto,Ontario,Yes,1292 Won Rd,2025-01-25,43.6890937,-79.4957704,M6M4R3,M6M,Other/Independent
+618,43.6898713-79.3248582Pharmasave,Pharmasave Toronto East,Toronto,Ontario,Yes,825 Coxwell Ave Unit C114,2022-09-27,43.6898713,-79.3248582,M4C3E7,M4C,Pharmasave
+619,43.6900078-79.326603Pharmasave,East York Pharmasave,Toronto,Ontario,Yes,840 Coxwell Ave Unit 102,2021-10-16,43.6900078,-79.326603,M4C5T2,M4C,Pharmasave
+620,43.6900672-79.81501Other/Independent,Midha Pharmacy Inc,Brampton,Ontario,Yes,15 Fandor Way Unit 1A,2022-06-17,43.6900672,-79.81501,L7A4S2,L7A,Other/Independent
+621,43.6901834-79.2934675Other/Independent,Care and Health Pharmacy,Toronto,Ontario,Yes,2928 Danforth Ave,2021-06-16,43.6901834,-79.2934675,M4C1M1,M4C,Other/Independent
+622,43.6908356-79.4729896Other/Independent,The Medicine Shoppe Pharmacy,Toronto,Ontario,Yes,2600 Eglinton Ave W,2024-09-03,43.6908356,-79.4729896,M6M1T5,M6M,Other/Independent
+623,43.6926252-79.4627417Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,2343 Eglinton Ave W,2024-04-04,43.6926252,-79.4627417,M6E2L6,M6E,Shoppers Drug Mart
+624,43.6933118-79.4623036Other/Independent,New Caledonia Pharmacy,Toronto,Ontario,Yes,600 Caledonia Rd,2022-07-01,43.6933118,-79.4623036,M6E4V5,M6E,Other/Independent
+625,43.6945685-79.7491965Shoppers Drug Mart,Shoppers Drug Mart,Brampton,Ontario,Yes,1 Kennedy Rd S,2023-06-17,43.6945685,-79.7491965,L6W3C9,L6W,Shoppers Drug Mart
+628,43.6960021-79.4478439Other/Independent,Northcliffe Pharmacy,Toronto,Ontario,Yes,1751 Eglinton Ave W,2022-07-28,43.6960021,-79.4478439,M6E2H7,M6E,Other/Independent
+631,43.6971001-79.5014085Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,1533 Jane St,2024-03-18,43.6971001,-79.5014085,M9N2R2,M9N,Shoppers Drug Mart
+632,43.6972877-79.8487932IDA,Creditview IDA Pharmacy,Brampton,Ontario,Yes,11210 Creditview Rd Unit D,2021-08-18,43.6972877,-79.8487932,L7A4X3,L7A,IDA
+633,43.697641-79.823528Shoppers Drug Mart,Shoppers Drug Mart,Brampton,Ontario,Yes,10661 Chinguacousy Rd Bldg C Fletchers Meadow,2023-06-12,43.697641,-79.823528,L7A0N5,L7A,Shoppers Drug Mart
+635,43.69811-80.3687829Loblaw,Drugstore Pharmacy,Fergus,Ontario,Yes,800 Towers St S,2021-09-21,43.69811,-80.3687829,N1M2R3,N1M,Loblaw
+638,43.6989823-79.4755084Other/Independent,Keele-Ingram Pharmacy,Toronto,Ontario,Yes,2221 Keele St,2022-01-31,43.6989823,-79.4755084,M6M3Z5,M6M,Other/Independent
+639,43.6990215-80.3893792Other/Independent,Trailside Pharmacy,Fergus,Ontario,Yes,6420 Beatty Line N Suite 101,2024-09-16,43.6990215,-80.3893792,N1M2W3,N1M,Other/Independent
+642,43.6993661-79.5025262Other/Independent,Whole Health Pharmacy,North York,Ontario,Yes,1575 Jane St Unit 7,2025-01-31,43.6993661,-79.5025262,M9N2R3,M9N,Other/Independent
+643,43.6996614-79.7464113Other/Independent,Queen Hansen Pharmacy,Brampton,Ontario,Yes,284 Queen St E Unit 116,2022-10-15,43.6996614,-79.7464113,L6V1C2,L6V,Other/Independent
+647,43.70261-79.759341Other/Independent,Cumberland Pharmacy,Brampton,Ontario,Yes,131 Kennedy Rd N Unit 2,2021-08-21,43.70261,-79.759341,L6V1X9,L6V,Other/Independent
+650,43.7034249-79.4128462Other/Independent,Forest Hill Pharmacy,Toronto,Ontario,Yes,491 Eglinton Ave W Unit 102,2021-11-16,43.7034249,-79.4128462,M5N1A8,M5N,Other/Independent
+656,43.7065383-79.351572Other/Independent,I CARE Pharmacy Services,East York,Ontario,Yes,2 Thorncliffe Park Dr Unit 26-27,2022-01-12,43.7065383,-79.351572,M4H1H2,M4H,Other/Independent
+657,43.706743-79.786987Rexall,Rexall,Brampton,Ontario,Yes,10035 Hurontario St Units 13-15,2022-11-21,43.706743,-79.786987,L6Z0E6,L6Z,Rexall
+658,43.7069465-79.2687238Pharmasave,Birchmount Pharmasave,Scarborough,Ontario,Yes,462 Birchmount Rd,2021-05-19,43.7069465,-79.2687238,M1K1N8,M1K,Pharmasave
+661,43.7073389-79.6992351Shoppers Drug Mart,Shoppers Drug Mart,Brampton,Ontario,Yes,34 A Avondale Blvd,2023-06-20,43.7073389,-79.6992351,L6T1H3,L6T,Shoppers Drug Mart
+663,43.7077315-79.3895818Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,759 Mount Pleasant Rd,2024-04-27,43.7077315,-79.3895818,M4S2N4,M4S,Shoppers Drug Mart
+664,43.7082127-79.4781558Other/Independent,Demarco Pharmacy,Toronto,Ontario,Yes,2394 Keele St,2021-08-26,43.7082127,-79.4781558,M6M4A5,M6M,Other/Independent
+666,43.7085848-79.4539933Other/Independent,Glen Park Pharmacy,Toronto,Ontario,Yes,2920 Dufferin St,2021-12-07,43.7085848,-79.4539933,M6B3S8,M6B,Other/Independent
+667,43.7089492-79.3978503Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,2345 Yonge St,2024-05-06,43.7089492,-79.3978503,M4P1E4,M4P,Shoppers Drug Mart
+668,43.7095985-79.5337277Loblaw,Real Canadian Superstore,Toronto,Ontario,Yes,2549 Won Rd,2022-10-31,43.7095985,-79.5337277,M9N2A7,M9N,Loblaw
+669,43.7102558-79.8157516Other/Independent,Potters Wheel Pharmacy,Brampton,Ontario,Yes,10725 Mclaughlin Rd Unit 3,2022-10-03,43.7102558,-79.8157516,L7A3E5,L7A,Other/Independent
+672,43.7138049-79.5531438Walmart,Wal-Mart Pharmacy,Toronto,Ontario,Yes,2245 Islington Ave,2024-12-14,43.7138049,-79.5531438,M9W3W7,M9W,Walmart
+674,43.7140566-79.3778586Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,1860 Bayview Ave Unit 101,2024-04-07,43.7140566,-79.3778586,M4G0C3,M4G,Shoppers Drug Mart
+675,43.7140887-79.7808132Other/Independent,Shoppers Simply Pharmacy,Brampton,Ontario,Yes,380 Bovaird Dr E Unit 26,2024-06-29,43.7140887,-79.7808132,L6Z2S8,L6Z,Other/Independent
+676,43.7141429-79.6299018Other/Independent,Shoppers Simply Pharmacy,Mississauga,Ontario,Yes,3530 Derry Rd E,2024-06-30,43.7141429,-79.6299018,L4T4E3,L4T,Other/Independent
+677,43.7150307-79.7214959Shoppers Drug Mart,Shoppers Drug Mart,Brampton,Ontario,Yes,25 Peel Centre Dr Unit 379,2023-06-06,43.7150307,-79.7214959,L6T3R5,L6T,Shoppers Drug Mart
+680,43.7182841-79.6374099Shoppers Drug Mart,Shoppers Drug Mart,Mississauga,Ontario,Yes,7205 Goreway Dr,2023-11-06,43.7182841,-79.6374099,L4T2T9,L4T,Shoppers Drug Mart
+681,43.7183786-79.3300652Other/Independent,Allcures Pharmacy,Toronto,Ontario,Yes,31 St Dennis Dr Unit 1,2021-04-22,43.7183786,-79.3300652,M3C1G7,M3C,Other/Independent
+685,43.7217584-79.5961609Other/Independent,Fortinos,Etobicoke,Ontario,Yes,330 Queens Plate Dr,2021-11-18,43.7217584,-79.5961609,M9W7J7,M9W,Other/Independent
+690,43.723647-79.30042Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,70 Eglinton Square Blvd,2024-03-21,43.723647,-79.30042,M1L2K1,M1L,Shoppers Drug Mart
+692,43.7238783-79.7173326Other/Independent,Bramqueen Pharmacy,Brampton,Ontario,Yes,490 Bramalea Rd Unit 3,2021-06-03,43.7238783,-79.7173326,L6T0G1,L6T,Other/Independent
+694,43.7252846-79.2305937Shoppers Drug Mart,Shoppers Drug Mart,Scarborough,Ontario,Yes,2999 Kingston Rd,2024-02-13,43.7252846,-79.2305937,M1M1P1,M1M,Shoppers Drug Mart
+697,43.7274519-79.7944777Shoppers Drug Mart,Shoppers Drug Mart,Brampton,Ontario,Yes,180 Sandalwood Parkway,2023-06-05,43.7274519,-79.7944777,L6Z1Y4,L6Z,Shoppers Drug Mart
+700,43.730309-80.9688021Other/Independent,Listowel Remedy's Rx,Listowel,Ontario,Yes,600 Mitchell Rd,2022-02-24,43.730309,-80.9688021,N4W3T1,N4W,Other/Independent
+701,43.7308124-79.4673782Pharmasave,Lefko Pharmasave #794,Toronto,Ontario,Yes,842 Wilson Ave,2022-02-21,43.7308124,-79.4673782,M3K1E5,M3K,Pharmasave
+702,43.7309565-79.3057989Other/Independent,Main Drug Mart,Toronto,Ontario,Yes,1646 Victoria Park Ave Unit 7,2022-05-09,43.7309565,-79.3057989,M1R1P7,M1R,Other/Independent
+703,43.7310281-81.6879773Loblaw,Zehrs Pharmacy,Goderich,Ontario,Yes,35400 Hurdon Rd,2025-02-17,43.7310281,-81.6879773,N7A3X8,N7A,Loblaw
+704,43.7310281-81.6879773Walmart,Wal-Mart Pharmacy,Goderich,Ontario,Yes,35400 Huron Rd,2024-10-18,43.7310281,-81.6879773,N7A3X8,N7A,Walmart
+707,43.7315528-79.4639921Other/Independent,Nhatrang Drug Mart,Toronto,Ontario,Yes,736 Wilson Ave,2022-07-04,43.7315528,-79.4639921,M3K1E2,M3K,Other/Independent
+709,43.7320812-79.2672493Pharmasave,HealthSmart Pharmasave,Scarborough,Ontario,Yes,2425 Eglinton Ave E Unit 10,2022-01-01,43.7320812,-79.2672493,M1K5G8,M1K,Pharmasave
+715,43.734785-79.419593Other/Independent,Canada Chemists,Toronto,Ontario,Yes,1975 Ave Rd,2021-06-13,43.734785,-79.419593,M5M4A3,M5M,Other/Independent
+716,43.7354112-79.3480078Other/Independent,Healing Arts Pharmacy,Toronto,Ontario,Yes,170 The Donway W Unit 113,2021-12-23,43.7354112,-79.3480078,M3C2J2,M3C,Other/Independent
+719,43.7371923-79.4366764Other/Independent,Bathurst Wilson I.D.A. Pharmacy,Toronto,Ontario,Yes,322 Wilson Ave,2021-05-11,43.7371923,-79.4366764,M3H1S8,M3H,Other/Independent
+724,43.7403333-79.6958116Walmart,Wal-Mart Pharmacy,Brampton,Ontario,Yes,30 Coventry Rd,2024-10-08,43.7403333,-79.6958116,L6T5P9,L6T,Walmart
+725,43.7405475-79.7599989Other/Independent,Springdale Pharmacy,Brampton,Ontario,Yes,630 Peter Robertson Blvd,2024-08-02,43.7405475,-79.7599989,L6R1T4,L6R,Other/Independent
+730,43.7435931-81.2501238Other/Independent,Brussels Pharmacy,Brussels,Ontario,Yes,453 Turnberry St,2021-06-10,43.7435931,-81.2501238,N0G1H0,N0G,Other/Independent
+732,43.7472961-79.7430207Rexall,Rexall,Brampton,Ontario,Yes,2100 Bovaird Dr,2022-11-19,43.7472961,-79.7430207,L6R3J7,L6R,Rexall
+734,43.7490485-79.5603217Shoppers Drug Mart,Shoppers Drug Mart,North York,Ontario,Yes,2550 Finch Ave W,2023-12-06,43.7490485,-79.5603217,M9M2G3,M9M,Shoppers Drug Mart
+735,43.749359-81.704906Pharmasave,Pharmasave Michael's Pharmacy,Goderich,Ontario,Yes,181 Cambria Rd N,2022-09-25,43.749359,-81.704906,N7A2R2,N7A,Pharmasave
+736,43.7496824-79.7265718Other/Independent,Brameast Pharmacy,Brampton,Ontario,Yes,2130 N Park Dr Unit 43-44,2021-06-01,43.7496824,-79.7265718,L6S0C9,L6S,Other/Independent
+737,43.7508309-79.7393303Pharmasave,Pharmasave Bovaird Spingdale,Brampton,Ontario,Yes,2250 Bovaird Dr Unit 101 & 102,2022-09-13,43.7508309,-79.7393303,L6R0W3,L6R,Pharmasave
+738,43.7517056-79.2615008Other/Independent,Lawrence Pharmacy,Scarborough,Ontario,Yes,2683 Lawrence Ave E,2022-02-20,43.7517056,-79.2615008,M1P2S2,M1P,Other/Independent
+739,43.7524704-79.3140955Other/Independent,Cassandra Pharmacy,Toronto,Ontario,Yes,2040 Victoria Park Ave,2021-06-22,43.7524704,-79.3140955,M1R1V2,M1R,Other/Independent
+743,43.7552315-80.6714667Other/Independent,Drayton Pharmacy,Drayton,Ontario,Yes,10 Wellington St N,2021-09-02,43.7552315,-80.6714667,N0G1P0,N0G,Other/Independent
+745,43.7562205-79.4395338Shoppers Drug Mart,Shoppers Drug Mart,North York,Ontario,Yes,598 Sheppard Ave W,2023-11-28,43.7562205,-79.4395338,M3H2S1,M3H,Shoppers Drug Mart
+746,43.7565486-79.8282651Pharmasave,Southfields Pharmasave Pharm,Caledon,Ontario,Yes,12531 Kennedy Rd,2024-07-31,43.7565486,-79.8282651,L7C3T6,L7C,Pharmasave
+747,43.7566065-79.5894024Other/Independent,Shih Pharmacy,Rexdale,Ontario,Yes,2700 Kipling Ave Unit 9,2023-05-08,43.7566065,-79.5894024,M9V4P2,M9V,Other/Independent
+748,43.7570595-79.3134587Shoppers Drug Mart,Shoppers Drug Mart,Scarborough,Ontario,Yes,85 Ellesmere Rd Unit 31,2024-02-14,43.7570595,-79.3134587,M1R4B7,M1R,Shoppers Drug Mart
+751,43.758913-79.3150402Other/Independent,Health Corner Pharmacy,Scarborough,Ontario,Yes,2167 Victoria Park Ave Unit 3,2021-12-28,43.758913,-79.3150402,M1R1V5,M1R,Other/Independent
+752,43.7589862-79.5188033IDA,York Gate IDA Drugmart,North York,Ontario,Yes,1 York Gate Blvd,2025-02-07,43.7589862,-79.5188033,M3N3A1,M3N,IDA
+755,43.7597868-79.2270078Pharmasave,Pharmasave Cedarcourt Pharmacy,Scarborough,Ontario,Yes,3480 Lawrence Ave E,2022-09-14,43.7597868,-79.2270078,M1H1A9,M1H,Pharmasave
+758,43.7613561-79.4102084Rexall,Rexall,Toronto,Ontario,Yes,4789 Yonge St Unit 2,2023-03-05,43.7613561,-79.4102084,M2N0G3,M2N,Rexall
+760,43.7639352-79.4875255Pharmasave,Pharmasave Keele and Finch Pharmacy,Toronto,Ontario,Yes,1275 Finch Ave W,2022-09-21,43.7639352,-79.4875255,M3J2G5,M3J,Pharmasave
+761,43.7644571-79.4887924Other/Independent,Nor-Arm Pharmacy,Toronto,Ontario,Yes,1280 Finch Ave W Unit 107,2022-07-25,43.7644571,-79.4887924,M3J3K6,M3J,Other/Independent
+765,43.7687022-79.4123463Loblaw,Loblaws,Toronto,Ontario,Yes,5095 Yonge St E,2022-04-22,43.7687022,-79.4123463,M2M3V7,M2M,Loblaw
+768,43.7701502-79.3748452Other/Independent,The Medicine Shoppe Pharmacy,Toronto,Ontario,Yes,794 Sheppard Ave E,2024-09-02,43.7701502,-79.3748452,M2K1C3,M2K,Other/Independent
+771,43.7711798-79.7548095Other/Independent,Father Tobin Pharmacy,Brampton,Ontario,Yes,105 Father Tobin Rd,2021-11-02,43.7711798,-79.7548095,L6R0W9,L6R,Other/Independent
+772,43.7714828-79.7785032Other/Independent,Pulse Pharmacy,Brampton,Ontario,Yes,11755 Bramalea Rd Unit 4,2022-10-13,43.7714828,-79.7785032,L6R3S9,L6R,Other/Independent
+773,43.7716344-79.2092939Guardian,Orton Park Guardian Pharmacy,Scarborough,Ontario,Yes,136 Orton Park Rd,2022-08-03,43.7716344,-79.2092939,M1G3H1,M1G,Guardian
+774,43.7719194-79.2840048Other/Independent,Kennedy Road Pharmacy,Scarborough,Ontario,Yes,2 Antrim Crescent Unit 4,2022-02-03,43.7719194,-79.2840048,M1P2N3,M1P,Other/Independent
+776,43.7723278-79.6620749IDA,Gore Pharmacy IDA,Brampton,Ontario,Yes,4515 Ebenezer Rd Suite 110,2021-12-12,43.7723278,-79.6620749,L6P2K7,L6P,IDA
+778,43.7727921-79.3210997Other/Independent,Victoria Commons Pharmacy,Scarborough,Ontario,Yes,2555 Victoria Park Ave Unit 6,2024-09-26,43.7727921,-79.3210997,M1T1A3,M1T,Other/Independent
+779,43.7728886-79.7790614Walmart,Wal-Mart Pharmacy,Brampton,Ontario,Yes,5085 Mayfield Rd,2024-10-09,43.7728886,-79.7790614,L6R3S9,L6R,Walmart
+780,43.7742707-79.4931323Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,4700 Keele St,2024-04-06,43.7742707,-79.4931323,M3J1P3,M3J,Shoppers Drug Mart
+781,43.7749632-79.6125553Other/Independent,Alpha Woodbridge Pharmacy,Woodbridge,Ontario,Yes,5731 Hwy 7,2021-04-23,43.7749632,-79.6125553,L4L4Y9,L4L,Other/Independent
+786,43.776116-79.6112831Shoppers Drug Mart,Shoppers Drug Mart,Woodbridge,Ontario,Yes,5694 Hwy 7,2024-06-23,43.776116,-79.6112831,L4L1T8,L4L,Shoppers Drug Mart
+787,43.7774281-79.4155611Other/Independent,Dynasty Pharmacy,North York,Ontario,Yes,5460 Yonge St Unit 106,2021-10-15,43.7774281,-79.4155611,M2N6K7,M2N,Other/Independent
+790,43.7792498-79.3645956Shoppers Drug Mart,Shoppers Drug Mart,Toronto,Ontario,Yes,4865 Leslie St,2024-03-20,43.7792498,-79.3645956,M2J2K8,M2J,Shoppers Drug Mart
+793,43.7838397-79.6593835Other/Independent,Brampton Community Pharmacy,Brampton,Ontario,Yes,3975 Cottrelle Blvd Unit 12,2021-06-02,43.7838397,-79.6593835,L6P2P9,L6P,Other/Independent
+794,43.7838577-79.2893272Shoppers Drug Mart,Shoppers Drug Mart,Scarborough,Ontario,Yes,2330 Kennedy Rd,2024-02-17,43.7838577,-79.2893272,M1T3H1,M1T,Shoppers Drug Mart
+796,43.7847274-79.6622269Shoppers Drug Mart,Shoppers Drug Mart,Brampton,Ontario,Yes,3938 Cottrelle Blvd,2023-06-16,43.7847274,-79.6622269,L6P2R1,L6P,Shoppers Drug Mart
+801,43.7857104-79.5902287IDA,Medbrands IDA Pharmacy,Woodbridge,Ontario,Yes,53 Woodbridge Ave Unit 1,2022-05-20,43.7857104,-79.5902287,L4L9K9,L4L,IDA
+804,43.7870769-79.7535931Pharmasave,Lacoste Pharmacy Pharmasave,Brampton,Ontario,Yes,60 Lacoste Blvd Unit 104,2022-02-14,43.7870769,-79.7535931,L6P2K2,L6P,Pharmasave
+808,43.7916316-79.5538902Other/Independent,Drug Smart Pharmacy,Woodbridge,Ontario,Yes,200 Windflower Gate Unit 700,2021-09-03,43.7916316,-79.5538902,L4L9L3,L4L,Other/Independent
+810,43.7929543-79.4177874Other/Independent,Aria Pharmacy,North York,Ontario,Yes,11 Newton Dr,2021-04-30,43.7929543,-79.4177874,M2M2M6,M2M,Other/Independent
+812,43.7943595-79.3294453Other/Independent,Village Square Pharmacy,Scarborough,Ontario,Yes,2942 Finch Ave E,2024-09-30,43.7943595,-79.3294453,M1W2T4,M1W,Other/Independent
+817,43.7962159-79.4222559Shoppers Drug Mart,Shoppers Drug Mart,North York,Ontario,Yes,6428 Yonge St,2023-12-01,43.7962159,-79.4222559,M2M3X4,M2M,Shoppers Drug Mart
+818,43.7971562-79.1510611Shoppers Drug Mart,Shoppers Drug Mart,Scarborough,Ontario,Yes,91 Rylander Blvd Unit 1022,2024-02-20,43.7971562,-79.1510611,M1B5M5,M1B,Shoppers Drug Mart
+819,43.7976384-79.2017578Walmart,Walmart,Scarborough,Ontario,Yes,799 Milner Ave,2024-12-31,43.7976384,-79.2017578,M1B3C3,M1B,Walmart
+820,43.7976898-79.5370372Walmart,Wal-Mart Pharmacy,Vaughan,Ontario,Yes,670 Applewood Crescent,2024-12-21,43.7976898,-79.5370372,L4K0L4,L4K,Walmart
+822,43.7984704-79.1481948Pharmasave,Rylander Pharmasave,Toronto,Ontario,Yes,6758 Kingston Rd Unit 8,2023-04-26,43.7984704,-79.1481948,M1B1G8,M1B,Pharmasave
+824,43.7990508-79.420471Other/Independent,Galleria Pharmacy,Thornhill,Ontario,Yes,7040 Yonge St Unit E1,2021-12-01,43.7990508,-79.420471,L4J1V7,L4J,Other/Independent
+825,43.8013095-79.1984082Other/Independent,People's Choice Remedy's Rx,Scarborough,Ontario,Yes,1145 Morningside Ave Unit 16,2022-08-15,43.8013095,-79.1984082,M1B0A7,M1B,Other/Independent
+830,43.807725-79.452203Rexall,Rexall,Thornhill,Ontario,Yes,1 Promenade Circle Unit 183,2023-02-23,43.807725,-79.452203,L4J4P8,L4J,Rexall
+831,43.8084303-79.2196494Other/Independent,Medical Pharmacy,Scarborough,Ontario,Yes,1333 Neilson Rd Unit 110,2022-05-23,43.8084303,-79.2196494,M1B4Y9,M1B,Other/Independent
+835,43.8116505-79.4510506Walmart,Wal-Mart Pharmacy,Thornhill,Ontario,Yes,700 Centre St,2024-12-11,43.8116505,-79.4510506,L4J0A7,L4J,Walmart
+836,43.8123008-79.359932Shoppers Drug Mart,Shoppers Drug Mart,Thornhill,Ontario,Yes,2900 Steeles Ave E Unit 8,2024-03-11,43.8123008,-79.359932,L3T4X1,L3T,Shoppers Drug Mart
+837,43.8133323-79.398554IDA,Bayview IDA Pharmacy,Thornhill,Ontario,Yes,7355 Bayview Ave,2021-05-12,43.8133323,-79.398554,L3T5Z2,L3T,IDA
+838,43.8143246-79.606517Guardian,Rutherford Guardian Drugs,Woodbridge,Ontario,Yes,5283 Rutherford Rd Unit 2,2023-04-22,43.8143246,-79.606517,L4H2T2,L4H,Guardian
+839,43.8158977-79.4520688Shoppers Drug Mart,Shoppers Drug Mart,Thornhill,Ontario,Yes,8000 Bathurst St,2024-03-14,43.8158977,-79.4520688,L4J0B8,L4J,Shoppers Drug Mart
+840,43.8173234-79.602129Shoppers Drug Mart,Shoppers Drug Mart,Woodbridge,Ontario,Yes,5100 Rutherford Rd,2024-06-26,43.8173234,-79.602129,L4H2J2,L4H,Shoppers Drug Mart
+841,43.818044-79.1185127Shoppers Drug Mart,Shoppers Drug Mart,Pickering,Ontario,Yes,650 Kingston Rd,2024-01-25,43.818044,-79.1185127,L1V3N7,L1V,Shoppers Drug Mart
+843,43.8212597-79.5555807Other/Independent,Weston Downs Pharmacy,Woodbridge,Ontario,Yes,9000 Won Rd Unit 9,2025-01-24,43.8212597,-79.5555807,L4L1A6,L4L,Other/Independent
+845,43.8220295-79.112337Other/Independent,Durham Drug Store,Pickering,Ontario,Yes,780 Kingston Rd,2021-10-13,43.8220295,-79.112337,L1V0C5,L1V,Other/Independent
+846,43.8229959-79.2485509Pharmasave,Health Check Pharmacy Pharmasave,Scarborough,Ontario,Yes,2826A Markham Rd,2021-12-27,43.8229959,-79.2485509,M1X1E6,M1X,Pharmasave
+849,43.8245364-79.6098518Other/Independent,Prima Care Pharmacy,Woodbridge,Ontario,Yes,9600 Islington Ave Unit 9,2022-10-07,43.8245364,-79.6098518,L4H2T1,L4H,Other/Independent
+850,43.8262506-79.5344382Shoppers Drug Mart,Shoppers Drug Mart,Vaughan,Ontario,Yes,1 Bass Pro Mills Dr Unit 341,2024-05-20,43.8262506,-79.5344382,L4K5W4,L4K,Shoppers Drug Mart
+851,43.8265621-79.5570154Shoppers Drug Mart,Shoppers Drug Mart,Woodbridge,Ontario,Yes,9200 Won Rd Building C,2024-06-25,43.8265621,-79.5570154,L4H2P8,L4H,Shoppers Drug Mart
+853,43.828193-79.549166Other/Independent,Venice Pharmacy,Vaughan,Ontario,Yes,3530 Rutherford Rd Unit 76,2024-09-25,43.828193,-79.549166,L4H3T8,L4H,Other/Independent
+854,43.8288152-79.4782983Guardian,Summeridge Guardian Pharmacy,Vaughan,Ontario,Yes,8707 Dufferin St Building D Unit 11-12A,2024-08-12,43.8288152,-79.4782983,L4J0A2,L4J,Guardian
+855,43.8292716-79.5351408Guardian,Tuscany Guardian Pharmacy,Vaughan,Ontario,Yes,9100 Jane St Unit 16,2024-09-18,43.8292716,-79.5351408,L4K0A4,L4K,Guardian
+856,43.8301982-79.1220416Rexall,Rexall,Pickering,Ontario,Yes,1822 Whites Rd Unit 28,2023-02-09,43.8301982,-79.1220416,L1V4M1,L1V,Rexall
+857,43.8303255-79.0777013Guardian,Phaily Guardian Pharmacy,Pickering,Ontario,Yes,1477 Bayly St Unit 9A,2022-08-20,43.8303255,-79.0777013,L1W3R5,L1W,Guardian
+859,43.8305126-79.2799514Other/Independent,Hillcroft Pharmacy,Markham,Ontario,Yes,5 Hillcroft Dr Unit 7,2022-01-06,43.8305126,-79.2799514,L3S1R7,L3S,Other/Independent
+861,43.831494-79.016383Rexall,Rexall,Ajax,Ontario,Yes,955 Wney Rd S Unit 7,2022-11-06,43.831494,-79.016383,L1S3K7,L1S,Rexall
+863,43.8323974-79.09116Loblaw,Loblaw Pharmacy,Pickering,Ontario,Yes,1792 Liverpool Rd,2022-04-03,43.8323974,-79.09116,L1V1V9,L1V,Loblaw
+864,43.833114-79.265375Shoppers Drug Mart,Shoppers Drug Mart,Scarborough,Ontario,Yes,5671 Steeles Ave E,2024-02-16,43.833114,-79.265375,M1V5P6,M1V,Shoppers Drug Mart
+866,43.8336662-79.3074718Shoppers Drug Mart,Shoppers Drug Mart,Markham,Ontario,Yes,1661 Denison St Unit T13,2023-10-07,43.8336662,-79.3074718,L3R6E4,L3R,Shoppers Drug Mart
+867,43.8342841-80.8504498Other/Independent,The Prescription Shoppe,Palmerston,Ontario,Yes,261 Main St W,2024-09-04,43.8342841,-80.8504498,N0G2P0,N0G,Other/Independent
+870,43.8415785-79.3905054Other/Independent,St Mary Pharmacy,Thornhill,Ontario,Yes,95 Times Ave Unit C2,2024-08-04,43.8415785,-79.3905054,L3T0A2,L3T,Other/Independent
+871,43.8419304-79.4834832Shoppers Drug Mart,Shoppers Drug Mart,Vaughan,Ontario,Yes,9200 Dufferin St,2024-05-23,43.8419304,-79.4834832,L4K0C6,L4K,Shoppers Drug Mart
+872,43.8420252-79.0669772Other/Independent,People's Choice Drug Mart,Pickering,Ontario,Yes,1755 Pickering Parkway Unit A2,2022-08-14,43.8420252,-79.0669772,L1V6K5,L1V,Other/Independent
+873,43.8420667-79.4158803Walmart,Walmart,Richmond Hill,Ontario,Yes,255 Silver Linden Dr,2024-12-29,43.8420667,-79.4158803,L4B4V5,L4B,Walmart
+880,43.8449491-79.3835118Other/Independent,Times Pharmacy,Richmond Hill,Ontario,Yes,550 Hwy 7 E Unit 95D,2024-09-08,43.8449491,-79.3835118,L4B3Z4,L4B,Other/Independent
+882,43.8452048-79.5351891Other/Independent,Peace Medical Pharmacy,Vaughan,Ontario,Yes,9699 Jane St Unit 19,2022-08-12,43.8452048,-79.5351891,L6A0A4,L6A,Other/Independent
+884,43.8457215-79.3539481Costco,Costco Pharmacy,Markham,Ontario,Yes,1 Yorktech Dr,2021-07-24,43.8457215,-79.3539481,L6G1A6,L6G,Costco
+887,43.8477124-79.4613989Shoppers Drug Mart,Shoppers Drug Mart,Vaughan,Ontario,Yes,9306 Bathurst St,2024-05-22,43.8477124,-79.4613989,L6A4N9,L6A,Shoppers Drug Mart
+890,43.8487565-79.5348063Shoppers Drug Mart,Shoppers Drug Mart,Maple,Ontario,Yes,2943 Major Mackenzie Dr,2023-10-02,43.8487565,-79.5348063,L6A3N9,L6A,Shoppers Drug Mart
+891,43.8487844-79.071542Other/Independent,Super Rx Pharmacy,Pickering,Ontario,Yes,1725 Kingston Rd Unit 9,2024-08-14,43.8487844,-79.071542,L1V4L9,L1V,Other/Independent
+892,43.8492237-79.5327694Loblaw,Drugstore Pharmacy,Vaughan,Ontario,Yes,2911 Major Mackenzie Dr,2021-10-07,43.8492237,-79.5327694,L6A3N9,L6A,Loblaw
+897,43.851878-79.522317Other/Independent,Drugcare Pharmacy,Maple,Ontario,Yes,2563 Major Mackenzie Dr Unit 10,2021-09-13,43.851878,-79.522317,L6A2E8,L6A,Other/Independent
+898,43.8521717-79.4324455Other/Independent,Beverly Med Pharmacy,Richmond Hill,Ontario,Yes,9201 Yonge St Unit NW-6,2021-05-17,43.8521717,-79.4324455,L4C1H9,L4C,Other/Independent
+899,43.8538794-79.2572371Shoppers Drug Mart,Shoppers Drug Mart,Markham,Ontario,Yes,7700 Markham Rd,2023-10-08,43.8538794,-79.2572371,L3S3K5,L3S,Shoppers Drug Mart
+900,43.8547149-79.2575368Other/Independent,Markham Healthplex Pharmacy,Markham,Ontario,Yes,5995 14th Ave Unit A2B,2022-05-13,43.8547149,-79.2575368,L3S0A2,L3S,Other/Independent
+901,43.855056-79.512818Shoppers Drug Mart,Shoppers Drug Mart,Maple,Ontario,Yes,2266 Major Mackenzie Dr,2023-10-03,43.855056,-79.512818,L6A3Y7,L6A,Shoppers Drug Mart
+904,43.8560716-79.4358908Shoppers Drug Mart,Shoppers Drug Mart,Richmond Hill,Ontario,Yes,9350 Yonge St,2024-01-29,43.8560716,-79.4358908,L4C5G2,L4C,Shoppers Drug Mart
+905,43.8575678-79.0802379Other/Independent,Superseven Pharmacy,Pickering,Ontario,Yes,2200 Brock Rd Unit 15,2024-08-16,43.8575678,-79.0802379,L1X2R2,L1X,Other/Independent
+906,43.8576717-79.5028396Walmart,Wal-Mart Pharmacy,Vaughan,Ontario,Yes,1900 Major Mackenzie Dr,2024-12-20,43.8576717,-79.5028396,L6A4R9,L6A,Walmart
+909,43.8585144-78.9453087Other/Independent,Lovell Drugs,Whitby,Ontario,Yes,617 Victoria St W Unit 9,2022-05-03,43.8585144,-78.9453087,L1N0E4,L1N,Other/Independent
+910,43.858914-79.0401394Shoppers Drug Mart,Shoppers Drug Mart,Ajax,Ontario,Yes,15 Wney Rd N,2023-05-11,43.858914,-79.0401394,L1T1P4,L1T,Shoppers Drug Mart
+911,43.8595579-79.0370714Sobeys,Sobeys Pharmacy,Ajax,Ontario,Yes,260 Kingston Rd W,2024-07-08,43.8595579,-79.0370714,L1T4E4,L1T,Sobeys
+913,43.8607198-79.5541097Pharmasave,Pharmasave Cityview Pharmacy,Woodbridge,Ontario,Yes,551 Cityview Blvd Unit 15-16,2022-09-15,43.8607198,-79.5541097,L4H0Z4,L4H,Pharmasave
+915,43.8612788-79.3899336Other/Independent,Atlas Pharmacy,Richmond Hill,Ontario,Yes,1383 16th Ave Unit 1A,2021-05-01,43.8612788,-79.3899336,L4B0E2,L4B,Other/Independent
+917,43.8630533-79.3046939Shoppers Drug Mart,Shoppers Drug Mart,Unionville,Ontario,Yes,4630 Hwy 7,2024-05-18,43.8630533,-79.3046939,L3R1M5,L3R,Shoppers Drug Mart
+919,43.8645341-79.0189464Costco,Costco Pharmacy,Ajax,Ontario,Yes,150 Kingston Rd E,2021-07-10,43.8645341,-79.0189464,L1Z1E5,L1Z,Costco
+924,43.8684579-79.0390134Rexall,Rexall,Ajax,Ontario,Yes,475 Wney Rd N Unit 17,2022-11-05,43.8684579,-79.0390134,L1T3H4,L1T,Rexall
+926,43.8692929-79.8657338Pharmasave,Pharmasave,Caledon,Ontario,Yes,15955 Airport Rd Unit 102,2022-09-06,43.8692929,-79.8657338,L7C1H9,L7C,Pharmasave
+928,43.8695391-79.287043Shoppers Drug Mart,Shoppers Drug Mart,Markham,Ontario,Yes,5000 Hwy 7 E Unit 2015,2023-10-06,43.8695391,-79.287043,L3R4M9,L3R,Shoppers Drug Mart
+929,43.8695391-79.287043Walmart,Wal-Mart Pharmacy,Markham,Ontario,Yes,5000 Hwy 7,2024-11-03,43.8695391,-79.287043,L3R4M9,L3R,Walmart
+930,43.8698517-78.8499428Shoppers Drug Mart,Shoppers Drug Mart,Oshawa,Ontario,Yes,199 Wentworth St W,2023-12-27,43.8698517,-78.8499428,L1J6P4,L1J,Shoppers Drug Mart
+934,43.8724111-79.2666979Shoppers Drug Mart,Shoppers Drug Mart,Markham,Ontario,Yes,5762 Hwy 7 Unit 1,2023-10-05,43.8724111,-79.2666979,L3P1A8,L3P,Shoppers Drug Mart
+935,43.8741893-78.8633005Other/Independent,Oshawa Lakeview Pharmacy,Oshawa,Ontario,Yes,799 Park Rd S Unit 5,2022-08-06,43.8741893,-78.8633005,L1J4K1,L1J,Other/Independent
+937,43.874603-79.2603721Other/Independent,Safa Pharmacy,Markham,Ontario,Yes,16A Main St N,2023-04-28,43.874603,-79.2603721,L3P1X2,L3P,Other/Independent
+938,43.8761097-78.9642646Shoppers Drug Mart,Shoppers Drug Mart,Whitby,Ontario,Yes,910 Dundas St W,2024-06-04,43.8761097,-78.9642646,L1P1P7,L1P,Shoppers Drug Mart
+939,43.8768077-78.9425026Other/Independent,Medical Pharmacy,Whitby,Ontario,Yes,320 Byron St S,2022-05-24,43.8768077,-78.9425026,L1N4P8,L1N,Other/Independent
+943,43.8783587-79.0256895Other/Independent,Ajax Pharmachoice,Ajax,Ontario,Yes,901 Harwood Ave N Unit 101,2021-04-20,43.8783587,-79.0256895,L1Z0T4,L1Z,Other/Independent
+944,43.8792134-79.3135639Guardian,Unionville Guardian Pharmacy,Unionville,Ontario,Yes,9249 Kennedy Rd Unit 101,2024-09-21,43.8792134,-79.3135639,L3R6H9,L3R,Guardian
+948,43.8844932-79.2324101Other/Independent,Dales Pharmacy,Markham,Ontario,Yes,377 Church St,2021-08-22,43.8844932,-79.2324101,L6B1A1,L6B,Other/Independent
+952,43.8858241-79.369875Shoppers Drug Mart,Shoppers Drug Mart,Markham,Ontario,Yes,2920 Major MacKenzie Dr E,2023-10-13,43.8858241,-79.369875,L6C0G6,L6C,Shoppers Drug Mart
+954,43.8900162-78.8608237Other/Independent,Prescription Pharmacy,Oshawa,Ontario,Yes,11 Gibb St,2022-10-05,43.8900162,-78.8608237,L1H2J9,L1H,Other/Independent
+955,43.8906919-78.8153458Other/Independent,Lovell Drugs Whitby,Oshawa,Ontario,Yes,600 Grandview St S,2022-05-05,43.8906919,-78.8153458,L1H8P4,L1H,Other/Independent
+960,43.8950722-78.8778872Other/Independent,Intrepid Pharmacy,Oshawa,Ontario,Yes,379 Bond St W Unit 500,2022-01-17,43.8950722,-78.8778872,L1J8R7,L1J,Other/Independent
+961,43.8955939-79.2639349Loblaw,Drug Store Pharmacy,Markham,Ontario,Yes,9305 Hwy 48,2021-09-09,43.8955939,-79.2639349,L6E0E6,L6E,Loblaw
+962,43.8957623-79.2502474Other/Independent,Swan Lake Pharmacy,Markham,Ontario,Yes,5 Swan Lake Blvd,2024-08-20,43.8957623,-79.2502474,L6E0K7,L6E,Other/Independent
+964,43.8962212-79.0331639Other/Independent,Wynplus Pharmacy,Ajax,Ontario,Yes,81 Middlecote Dr Unit A7,2025-02-06,43.8962212,-79.0331639,L1T0K3,L1T,Other/Independent
+966,43.897857-78.863319Other/Independent,Lovell Drugs,Oshawa,Ontario,Yes,8 King St E,2022-05-02,43.897857,-78.863319,L1H1A9,L1H,Other/Independent
+968,43.8987322-78.8643993Other/Independent,Oshawa Discount Pharmacy,Oshawa,Ontario,Yes,44 Simcoe St N Unit 2,2022-08-05,43.8987322,-78.8643993,L1G4S1,L1G,Other/Independent
+969,43.8992024-78.6163789Other/Independent,Wilmot Creek Pharmacy,Newcastle,Ontario,Yes,1 Wheelhouse Dr Unit 2,2025-02-03,43.8992024,-78.6163789,L1B1B9,L1B,Other/Independent
+975,43.9029808-78.85702Costco,Costco Pharmacy,Oshawa,Ontario,Yes,130 Ritson Rd,2021-08-01,43.9029808,-78.85702,L1G0A6,L1G,Costco
+976,43.9030369-79.2498305Other/Independent,Pharmagreen Pharmacy,Markham,Ontario,Yes,10 Greensborough Village Circle Unit 11,2022-09-03,43.9030369,-79.2498305,L6E1M4,L6E,Other/Independent
+977,43.9067641-79.2666656Guardian,Rexall Guardian Markhamack Pharnacy,Markham,Ontario,Yes,9889 Hwy 48 Unit 7,2023-04-07,43.9067641,-79.2666656,L6E0B7,L6E,Guardian
+979,43.9074265-78.8076018Other/Independent,Health Centre Pharmacy,Courtice,Ontario,Yes,1450 Hwy 2,2021-12-25,43.9074265,-78.8076018,L1E3C3,L1E,Other/Independent
+981,43.908138-78.706173Shoppers Drug Mart,Shoppers Drug Mart,Bowmanville,Ontario,Yes,2401 Hwy 2 Unit 3,2023-06-02,43.908138,-78.706173,L1C4V4,L1C,Shoppers Drug Mart
+982,43.9083996-78.7109503Loblaw,Loblaw Pharmacy,Bowmanville,Ontario,Yes,2375 Hwy 2,2022-02-28,43.9083996,-78.7109503,L1C5A3,L1C,Loblaw
+983,43.9109605-78.6772351Pharmasave,Pharmasave Medicine Chest Pharmacy,Bowmanville,Ontario,Yes,221 King St E Unit 2,2022-09-23,43.9109605,-78.6772351,L1C1P7,L1C,Pharmasave
+985,43.9114887-78.8903642Other/Independent,Lovell Drugs Ltd.,Oshawa,Ontario,Yes,500 Rossland Rd W,2022-05-04,43.9114887,-78.8903642,L1J3H2,L1J,Other/Independent
+986,43.9117005-78.7766422Pharmasave,Courtice Pharmasave,Courtice,Ontario,Yes,2727 Courtice Rd,2021-08-15,43.9117005,-78.7766422,L1E3A2,L1E,Pharmasave
+988,43.9142609-79.449601Shoppers Drug Mart,Shoppers Drug Mart,Richmond Hill,Ontario,Yes,118 Tower Rd Building C1,2024-02-03,43.9142609,-79.449601,L4E0K6,L4E,Shoppers Drug Mart
+991,43.9178112-78.9602882Walmart,Wal-Mart Pharmacy,Whitby,Ontario,Yes,4100 Baldwin St S,2024-12-23,43.9178112,-78.9602882,L1R3H8,L1R,Walmart
+993,43.9222105-80.0864045Shoppers Drug Mart,Shoppers Drug Mart,Orangeville,Ontario,Yes,25 Broadway Ave,2023-12-20,43.9222105,-80.0864045,L9W1J6,L9W,Shoppers Drug Mart
+995,43.9262629-80.0913795Loblaw,Zehrs Pharmacy,Orangeville,Ontario,Yes,50 Fourth Ave,2025-02-21,43.9262629,-80.0913795,L9W3W8,L9W,Loblaw
+996,43.9268667-78.8755509Other/Independent,Simcoe North Pharmacy,Oshawa,Ontario,Yes,1053 Simcoe St N Unit 7A,2024-07-01,43.9268667,-78.8755509,L1G4X1,L1G,Other/Independent
+997,43.9300722-79.5232188Shoppers Drug Mart,Shoppers Drug Mart,King City,Ontario,Yes,2140 King Rd,2023-08-27,43.9300722,-79.5232188,L7B1L5,L7B,Shoppers Drug Mart
+998,43.9304291-78.6896858Shoppers Drug Mart,Shoppers Drug Mart,Bowmanville,Ontario,Yes,570 Longworth Ave,2023-06-03,43.9304291,-78.6896858,L1C0H4,L1C,Shoppers Drug Mart
+999,43.9316653-80.1022412Shoppers Drug Mart,Shoppers Drug Mart,Orangeville,Ontario,Yes,150 First St,2023-12-19,43.9316653,-80.1022412,L9W3T7,L9W,Shoppers Drug Mart
+1000,43.9319396-79.513571Guardian,King City Guardian Drugs,King City,Ontario,Yes,1700 King Rd Unit 27,2022-02-05,43.9319396,-79.513571,L7B0N1,L7B,Guardian
+1002,43.9399235-78.8514467Shoppers Drug Mart,Shoppers Drug Mart,Oshawa,Ontario,Yes,784 Taunton Rd E,2023-12-29,43.9399235,-78.8514467,L1K1B7,L1K,Shoppers Drug Mart
+1004,43.9468763-78.8937246Shoppers Drug Mart,Shoppers Drug Mart,Oshawa,Ontario,Yes,2045 Simcoe St N,2023-12-26,43.9468763,-78.8937246,L1H7K4,L1H,Shoppers Drug Mart
+1006,43.9523231-79.4553422Other/Independent,Pharmacare Medical Group,Richmond Hill,Ontario,Yes,13311 Yonge St Unit 107,2022-08-29,43.9523231,-79.4553422,L4E3L6,L4E,Other/Independent
+1007,43.9528565-78.9609067Shoppers Drug Mart,Shoppers Drug Mart,Brooklin,Ontario,Yes,5979 Baldwin St S,2023-06-24,43.9528565,-78.9609067,L1M2J7,L1M,Shoppers Drug Mart
+1008,43.953895-78.2942336Pharmasave,Port Hope Pharmasave,Port Hope,Ontario,Yes,60 Ontario St,2022-10-01,43.953895,-78.2942336,L1A2T8,L1A,Pharmasave
+1010,43.9602051-78.1704267Shoppers Drug Mart,Shoppers Drug Mart,Cobourg,Ontario,Yes,270 Spring St,2023-07-09,43.9602051,-78.1704267,K9A3K2,K9A,Shoppers Drug Mart
+1011,43.9605369-78.3206547Loblaw,Loblaw Pharmacy,Port Hope,Ontario,Yes,20 Jocelyn St,2022-04-04,43.9605369,-78.3206547,L1A3V7,L1A,Loblaw
+1014,43.9638294-79.2628962Other/Independent,Great North Pharmacy,Stouffville,Ontario,Yes,155 Mostar St Unit 4,2021-12-15,43.9638294,-79.2628962,L4A0Y2,L4A,Other/Independent
+1016,43.966886-79.2631745Rexall,Rexall,Stouffville,Ontario,Yes,5779 Main St Unit 101,2023-02-21,43.966886,-79.2631745,L4A4R2,L4A,Rexall
+1019,43.9693994-79.2593867Pharmasave,Stouffville Pharmasave,Stouffville,Ontario,Yes,5892 Main St Unit 208,2024-08-11,43.9693994,-79.2593867,L4A2S8,L4A,Pharmasave
+1020,43.9711553-79.2487128IDA,Stouffville IDA Pharmacy,Stouffville,Ontario,Yes,6212 Main St Suite 102,2024-08-10,43.9711553,-79.2487128,L4A2S5,L4A,IDA
+1021,43.975614-79.229996Shoppers Drug Mart,Shoppers Drug Mart,Stouffville,Ontario,Yes,12277 10th Line,2024-03-06,43.975614,-79.229996,L4A7W6,L4A,Shoppers Drug Mart
+1023,43.9811559-80.7352569IDA,Walsh's IDA Pharmacy Mount Forest,Mount Forest,Ontario,Yes,129 Main St S,2025-01-04,43.9811559,-80.7352569,N0G2L0,N0G,IDA
+1025,43.9988029-79.474695Pharmasave,Pharmasave Aurora,Aurora,Ontario,Yes,126 Wellington St W Unit 105,2022-09-12,43.9988029,-79.474695,L4G2N9,L4G,Pharmasave
+1026,43.999226-77.1610985Other/Independent,NoFrills Pharmacy,Picton,Ontario,Yes,13311 Loyalist Parkway,2022-07-23,43.999226,-77.1610985,K0K2T0,K0K,Other/Independent
+1027,44.0033464-79.4526769Other/Independent,Wellington Pharmacy,Aurora,Ontario,Yes,300 Wellington St E Unit 2,2025-01-11,44.0033464,-79.4526769,L4G1J5,L4G,Other/Independent
+1028,44.0047172-79.4690816Other/Independent,Wellness Clinical Pharmacy,Aurora,Ontario,Yes,15450 Yonge St Unit 2,2025-01-12,44.0047172,-79.4690816,L4G0K1,L4G,Other/Independent
+1030,44.0059883-79.6780313Other/Independent,Schomberg Village Pharmacy,Schomberg,Ontario,Yes,50 Dr Kay Dr Units 11A & 11B,2023-05-03,44.0059883,-79.6780313,L0G1T0,L0G,Other/Independent
+1031,44.0093493-79.4732479Other/Independent,Care Drugs,Aurora,Ontario,Yes,24 Orchard Heights Blvd Unit 103,2021-06-17,44.0093493,-79.4732479,L4G3W3,L4G,Other/Independent
+1032,44.0119922-79.4463034Sobeys,Sobeys Pharmacy,Aurora,Ontario,Yes,15500 Bayview Ave,2024-07-10,44.0119922,-79.4463034,L4G7J1,L4G,Sobeys
+1033,44.0123574-79.4448283Other/Independent,Family Drug Mart,Aurora,Ontario,Yes,9 Borealis Ave Unit 5,2021-10-31,44.0123574,-79.4448283,L4G0R5,L4G,Other/Independent
+1035,44.0153537-79.4128902Walmart,Wal-Mart Pharmacy,Aurora,Ontario,Yes,135 First Commerce Dr,2024-10-04,44.0153537,-79.4128902,L4G0G2,L4G,Walmart
+1038,44.0265193-79.4302004IDA,Aurora IDA Pharmacy,Aurora,Ontario,Yes,25 William Graham Dr Unit B1,2021-05-02,44.0265193,-79.4302004,L4G3G3,L4G,IDA
+1039,44.0344096-79.4497334Shoppers Drug Mart,Shoppers Drug Mart,Newmarket,Ontario,Yes,665 Stone Haven Ave,2023-11-21,44.0344096,-79.4497334,L3X2G2,L3X,Shoppers Drug Mart
+1042,44.0422599-77.7368828Other/Independent,Brighton Remedy's Rx,Brighton,Ontario,Yes,24 Main St,2021-06-09,44.0422599,-77.7368828,K0K2H0,K0K,Other/Independent
+1045,44.0553217-79.473904Other/Independent,Newmarket Pharmacy,Newmarket,Ontario,Yes,130 Davis Dr Unit 24,2022-07-03,44.0553217,-79.473904,L3Y2N1,L3Y,Other/Independent
+1046,44.0598663-79.479979Other/Independent,Total Health Pharmacy,Newmarket,Ontario,Yes,17725 Yonge St Unit 8,2024-09-12,44.0598663,-79.479979,L3Y7C1,L3Y,Other/Independent
+1047,44.0605684-79.4563689Other/Independent,Dixon Medical Pharmacy,Newmarket,Ontario,Yes,531 Davis Dr Unit 106,2021-08-30,44.0605684,-79.4563689,L3Y6P5,L3Y,Other/Independent
+1055,44.0787294-80.203811IDA,Caravaggio IDA Drugs,Shelburne,Ontario,Yes,128 Main St E,2021-06-15,44.0787294,-80.203811,L9V3K5,L9V,IDA
+1056,44.0807694-80.1870706Loblaw,Drugstore Pharmacy,Shelburne,Ontario,Yes,101 Second Line,2021-10-04,44.0807694,-80.1870706,L9V3J4,L9V,Loblaw
+1057,44.0817074-80.189986Other/Independent,Shelburne Town Pharmacy,Shelburne,Ontario,Yes,712 Main St E Unit 103,2023-05-06,44.0817074,-80.189986,L9V2Z4,L9V,Other/Independent
+1058,44.0879145-79.1324508Walmart,Wal-Mart Pharmacy,Uxbridge,Ontario,Yes,6 Welwood Rd,2024-12-18,44.0879145,-79.1324508,L9P1X4,L9P,Walmart
+1060,44.0916813-79.1312297Other/Independent,Trail Capital Pharmacy,Uxbridge,Ontario,Yes,2 Douglas Rd Unit A35,2024-09-15,44.0916813,-79.1312297,L9P1S9,L9P,Other/Independent
+1061,44.0945329-78.9639377Walmart,Wal-Mart Pharmacy,Port Perry,Ontario,Yes,1535 Hwy 7A,2024-11-25,44.0945329,-78.9639377,L9L1B5,L9L,Walmart
+1062,44.094773-77.6042056Walmart,Wal-Mart Pharmacy,Trenton,Ontario,Yes,470 Second Dug Hill Rd,2024-12-17,44.094773,-77.6042056,K8V5P7,K8V,Walmart
+1063,44.0960415-79.1275992Rexall,Rexall,Uxbridge,Ontario,Yes,2 Elgin Park Dr Unit C,2023-03-24,44.0960415,-79.1275992,L9P0B1,L9P,Rexall
+1065,44.0982639-77.5767169Metro,Metro Pharmacy,Trenton,Ontario,Yes,53 Quinte St,2022-06-16,44.0982639,-77.5767169,K8V3S8,K8V,Metro
+1068,44.1016525-78.9389671Other/Independent,Pharmacy Associates Of Port Perry,Port Perry,Ontario,Yes,11 Water St Unit B,2022-09-02,44.1016525,-78.9389671,L9L1H9,L9L,Other/Independent
+1069,44.10349-78.928124Other/Independent,Port Perry Remedy's Rx,Port Perry,Ontario,Yes,1893 Scugog St,2022-10-02,44.10349,-78.928124,L9L1H9,L9L,Other/Independent
+1073,44.1072075-78.8205228Other/Independent,Wellness Sheild,Blackstock,Ontario,Yes,14020 Old Scugog Rd,2025-01-14,44.1072075,-78.8205228,L0B1B0,L0B,Other/Independent
+1074,44.1077558-79.1226591Pharmasave,Pharmasave Uxbridge Med Pharm,Uxbridge,Ontario,Yes,29 Toronto St S Suite 1B,2022-09-28,44.1077558,-79.1226591,L9P1V9,L9P,Pharmasave
+1075,44.1078642-79.591509Other/Independent,Holland Street Pharmacy,Bradford,Ontario,Yes,484 Holland St W Unit B3,2022-01-08,44.1078642,-79.591509,L3Z0A2,L3Z,Other/Independent
+1076,44.108581-79.5864844IDA,Pharmalink IDA Phamracy,Bradford,Ontario,Yes,456 Holland St W Unit 2,2022-09-04,44.108581,-79.5864844,L3Z0G1,L3Z,IDA
+1078,44.1093374-79.5975737Walmart,Wal-Mart Pharmacy,Bradford,Ontario,Yes,545 Holland St W,2024-10-07,44.1093374,-79.5975737,L3Z0C1,L3Z,Walmart
+1079,44.1096085-79.5800977Sobeys,Sobeys Pharmacy,Bradford,Ontario,Yes,40 Melbourne Dr,2024-07-11,44.1096085,-79.5800977,L3Z2B1,L3Z,Sobeys
+1081,44.1161931-79.5590269Other/Independent,Simcoe Square Pharmacy,Bradford,Ontario,Yes,157 Holland St E Unit 9,2024-07-02,44.1161931,-79.5590269,L3Z2B2,L3Z,Other/Independent
+1082,44.1260137-79.5667534Pharmasave,Pharmasave,Bradford,Ontario,Yes,305 Barrie St Unit 6A,2022-09-05,44.1260137,-79.5667534,L3Z2B1,L3Z,Pharmasave
+1085,44.1469615-79.8859886Rexall,Rexall,Alliston,Ontario,Yes,149 Young St,2022-11-07,44.1469615,-79.8859886,L9R2A9,L9R,Rexall
+1094,44.1762894-81.635488Pharmasave,Gordon Pharmasave,Kincardine,Ontario,Yes,767 Queen St,2021-12-10,44.1762894,-81.635488,N2Z2Z4,N2Z,Pharmasave
+1095,44.1772452-80.8184226Other/Independent,Rx Drug Mart,Durham,Ontario,Yes,207 Garafraxa St N Unit 203,2023-04-24,44.1772452,-80.8184226,N0G1R0,N0G,Other/Independent
+1097,44.1848324-76.7674084Other/Independent,Bath Family Pharmacy,Bath,Ontario,Yes,220 Main St Unit 1,2021-05-10,44.1848324,-76.7674084,K0H1G0,K0H,Other/Independent
+1099,44.189156-77.3975287Shoppers Drug Mart,Shoppers Drug Mart,Belleville,Ontario,Yes,390 Front St N,2023-05-28,44.189156,-77.3975287,K8P3E1,K8P,Shoppers Drug Mart
+1100,44.1894746-79.7088314Pharmasave,Cookstown Pharmasave,Cookstown,Ontario,Yes,52 Queen St W,2021-07-07,44.1894746,-79.7088314,L0L1L0,L0L,Pharmasave
+1103,44.2191619-76.6434574Other/Independent,Amherstview Drugs,Kingston,Ontario,Yes,4499 Bath Rd,2021-04-25,44.2191619,-76.6434574,K7N1A6,K7N,Other/Independent
+1107,44.2237426-76.4935185Other/Independent,Clinic Pharmacy,Kingston,Ontario,Yes,76 Stuart St,2021-07-01,44.2237426,-76.4935185,K7L2V7,K7L,Other/Independent
+1108,44.2240643-76.6631081Pharmasave,Pharmasave Loyalist Pharmacy,Amherstview,Ontario,Yes,200 Speers Blvd,2022-09-22,44.2240643,-76.6631081,K7N1Y7,K7N,Pharmasave
+1110,44.2308559-76.4859204Other/Independent,Lovell Drugs,Kingston,Ontario,Yes,166 Brock St,2022-05-01,44.2308559,-76.4859204,K7L3E2,K7L,Other/Independent
+1113,44.2344385-79.4501715Rexall,Rexall,Keswick,Ontario,Yes,76 Arlington Dr Unit C,2022-12-21,44.2344385,-79.4501715,L4P0A9,L4P,Rexall
+1114,44.2353007-76.5669322Pharmasave,Gardiner's Pharmasave,Kingston,Ontario,Yes,500 Gardiners Rd,2021-12-02,44.2353007,-76.5669322,K7M7W9,K7M,Pharmasave
+1115,44.236916-76.5823035Shoppers Drug Mart,Shoppers Drug Mart,Kingston,Ontario,Yes,1875 Bath Rd,2023-09-05,44.236916,-76.5823035,K7M4Y3,K7M,Shoppers Drug Mart
+1116,44.2378882-76.5919508Other/Independent,Nofrills,Kingston,Ontario,Yes,1030 Coverdale Dr,2022-07-09,44.2378882,-76.5919508,K7M8X7,K7M,Other/Independent
+1118,44.2389873-76.5072859Other/Independent,Medical Arts Pharmacy,Kingston,Ontario,Yes,800 Princess St,2022-05-22,44.2389873,-76.5072859,K7L5E4,K7L,Other/Independent
+1119,44.239413-76.5067772Other/Independent,Frontenac Medical Pharmacy,Kingston,Ontario,Yes,789 Princess St,2021-11-30,44.239413,-76.5067772,K7L1E9,K7L,Other/Independent
+1121,44.2402229-76.5251988Other/Independent,Med+ Pharmacy,Kingston,Ontario,Yes,277 Bath Rd,2022-05-19,44.2402229,-76.5251988,K7M2X6,K7M,Other/Independent
+1123,44.2422699-76.49576Other/Independent,Division Pharmacy,Kingston,Ontario,Yes,472 Division St Unit 2,2021-08-28,44.2422699,-76.49576,K7K4B1,K7K,Other/Independent
+1126,44.2484037-76.5806125Other/Independent,Milford Pharmacy,Kingston,Ontario,Yes,728 Milford Dr,2022-06-18,44.2484037,-76.5806125,K7P1C6,K7P,Other/Independent
+1128,44.2511182-76.5690727Other/Independent,Medical Tree,Kingston,Ontario,Yes,795 Gardiners Rd Unit 6,2022-05-25,44.2511182,-76.5690727,K7M7E6,K7M,Other/Independent
+1130,44.2529193-76.4609127Pharmasave,Barriefield Pharmasave,Kingston,Ontario,Yes,760 Hwy 15 Unit 13,2021-05-09,44.2529193,-76.4609127,K7L0C3,K7L,Pharmasave
+1131,44.2532378-76.4852017Other/Independent,CATP Kingston,Kingston,Ontario,Yes,7 Hickson Ave,2021-06-23,44.2532378,-76.4852017,K7K2N4,K7K,Other/Independent
+1133,44.2563363-76.572171Shoppers Drug Mart,Shoppers Drug Mart,Kingston,Ontario,Yes,945 Gardiners Rd Unit L074,2023-08-28,44.2563363,-76.572171,K7M7H4,K7M,Shoppers Drug Mart
+1134,44.2564519-76.9609132Shoppers Drug Mart,Shoppers Drug Mart,Napanee,Ontario,Yes,10 Alkenbrack St Unit 2,2023-11-16,44.2564519,-76.9609132,K7R0A6,K7R,Shoppers Drug Mart
+1135,44.257184-76.549969Other/Independent,FreshCo Pharmacy Princess,Kingston,Ontario,Yes,2327 Princess St,2021-11-28,44.257184,-76.549969,K7M3G1,K7M,Other/Independent
+1136,44.2575256-76.5583154Shoppers Drug Mart,Shoppers Drug Mart,Kingston,Ontario,Yes,2437 Princess St Unit 100,2023-09-02,44.2575256,-76.5583154,K7M3G1,K7M,Shoppers Drug Mart
+1140,44.2610102-76.5722326Loblaw,Loblaws,Kingston,Ontario,Yes,1048 Midland Ave,2022-04-20,44.2610102,-76.5722326,K7P2X9,K7P,Loblaw
+1143,44.2627539-76.4914328Other/Independent,Weller Pharmacy,Kingston,Ontario,Yes,263 Weller Ave Unit 2,2025-01-10,44.2627539,-76.4914328,K7K2V4,K7K,Other/Independent
+1144,44.2644334-76.5002823Other/Independent,Nofrills,Kingston,Ontario,Yes,1162 Division St,2022-07-08,44.2644334,-76.5002823,K7K0C3,K7K,Other/Independent
+1149,44.2831292-78.3343136Guardian,High St. Guardian Pharmacy,Peterborough,Ontario,Yes,815 High St Unit 9,2022-01-05,44.2831292,-78.3343136,K9J8J9,K9J,Guardian
+1150,44.2976921-77.5430435Other/Independent,Stirling Pharmacy,Stirling,Ontario,Yes,9 Tuftsville Rd Unit D,2024-08-05,44.2976921,-77.5430435,K0K3E0,K0K,Other/Independent
+1153,44.3081096-77.8008531Other/Independent,Rx Drug Mart,Campbellford,Ontario,Yes,16 Grand Rd,2023-04-23,44.3081096,-77.8008531,K0L1L0,K0L,Other/Independent
+1154,44.314201-79.553889Other/Independent,Alcona Pharmacy,Innisfil,Ontario,Yes,1070 Innisfil Beach Rd Unit 14,2021-04-21,44.314201,-79.553889,L9S4T9,L9S,Other/Independent
+1156,44.3219436-79.8868634Guardian,Angus Borden Guardian Pharmacy,Angus,Ontario,Yes,6 River Dr Unit 1,2021-04-26,44.3219436,-79.8868634,L0M1B2,L0M,Guardian
+1157,44.3225977-79.3709748Pharmasave,Eustace Pharmasave,Jackson's Point,Ontario,Yes,936 Lake Dr E,2021-10-23,44.3225977,-79.3709748,L0E1L0,L0E,Pharmasave
+1165,44.3470666-79.7031023Shoppers Drug Mart,Shoppers Drug Mart,Barrie,Ontario,Yes,420 Essa Rd,2023-05-24,44.3470666,-79.7031023,L4N9J7,L4N,Shoppers Drug Mart
+1167,44.3501016-79.7336342Other/Independent,Prohealth Pharmacy,Barrie,Ontario,Yes,480 Mapleton Ave Unit 5,2022-10-11,44.3501016,-79.7336342,L4N9C2,L4N,Other/Independent
+1168,44.3507217-78.7613368Loblaw,Loblaw Pharmacy,Lindsay,Ontario,Yes,400 Kent St W,2022-03-16,44.3507217,-78.7613368,K9V6K2,K9V,Loblaw
+1169,44.3507422-78.7551481Shoppers Drug Mart,Shoppers Drug Mart,Lindsay,Ontario,Yes,343 Kent St W Unit 341,2023-09-16,44.3507422,-78.7551481,K9B2Z7,K9B,Shoppers Drug Mart
+1170,44.3528478-79.553978Other/Independent,Sandycove Drug Store,Innisfil,Ontario,Yes,902 Lockhart Rd Unit 3,2023-05-01,44.3528478,-79.553978,L9S4V2,L9S,Other/Independent
+1171,44.3550354-78.7358383Other/Independent,R.X Drug Mart,Lindsay,Ontario,Yes,51 Kent St W,2022-10-16,44.3550354,-78.7358383,K9V2X9,K9V,Other/Independent
+1172,44.3552065-79.6486316Loblaw,Drugstore Pharmacy,Barrie,Ontario,Yes,620 Yonge St,2021-09-16,44.3552065,-79.6486316,L4N4E5,L4N,Loblaw
+1173,44.3553137-78.7548824Other/Independent,Kawartha Lakes Pharmacy,Lindsay,Ontario,Yes,55 Angeline St N Unit 4A,2022-01-30,44.3553137,-78.7548824,K9V5B7,K9V,Other/Independent
+1174,44.3765726-76.4787547Pharmasave,Inverary Pharmasave,Inverary,Ontario,Yes,3810 Perth Rd Unit 1B,2022-01-18,44.3765726,-76.4787547,K0H1X0,K0H,Pharmasave
+1177,44.4051781-76.6659673Other/Independent,Harrowsmith Pharmacy,Harrowsmith,Ontario,Yes,4937 Hwy 38 Unit 2,2021-12-20,44.4051781,-76.6659673,K0H1V0,K0H,Other/Independent
+1181,44.4126502-79.707296Shoppers Drug Mart,Shoppers Drug Mart,Barrie,Ontario,Yes,509 Bayfield St Unit C2,2023-05-22,44.4126502,-79.707296,L4M4Z8,L4M,Shoppers Drug Mart
+1182,44.4137436-79.7129061Shoppers Drug Mart,Shoppers Drug Mart,Barrie,Ontario,Yes,524 Bayfield St N,2023-05-23,44.4137436,-79.7129061,L4M5A2,L4M,Shoppers Drug Mart
+1183,44.4148803-79.6623209Other/Independent,Purehealth Pharmacy,Barrie,Ontario,Yes,201 Georgian Dr,2022-10-14,44.4148803,-79.6623209,L4M6M2,L4M,Other/Independent
+1185,44.428141-79.1251Loblaw,Drug Store Pharmacy,Beaverton,Ontario,Yes,30B Beaver Ave,2021-09-04,44.428141,-79.1251,L0K1A0,L0K,Loblaw
+1186,44.4534646-81.3759155Loblaw,Drug Store Pharmacy,Port Elgin,Ontario,Yes,1244 Hwy 21,2021-09-11,44.4534646,-81.3759155,N0H2C0,N0H,Loblaw
+1187,44.4751809-76.2367919Other/Independent,Pharma Well Drugmart,Seeley's Bay,Ontario,Yes,106 Drynan Way Unit 4,2022-08-26,44.4751809,-76.2367919,K0H2N0,K0H,Other/Independent
+1188,44.4751945-80.07473Shoppers Drug Mart,Shoppers Drug Mart,Wasaga Beach,Ontario,Yes,1900 Mosley St Unit 4,2024-05-24,44.4751945,-80.07473,L9Z1Z3,L9Z,Shoppers Drug Mart
+1191,44.4898108-81.3765882Other/Independent,Kristen's Pharmacy,Southampton,Ontario,Yes,197 Albert St S Unit 3,2022-02-12,44.4898108,-81.3765882,N0H2L0,N0H,Other/Independent
+1194,44.5376175-78.7361745Other/Independent,Fenelon Falls Pharmacy,Fenelon Falls,Ontario,Yes,53 Colborne St,2021-11-03,44.5376175,-78.7361745,K0M1N0,K0M,Other/Independent
+1195,44.5462128-78.5420441Pharmasave,Village Gate Pharmasave,Bobcaygeon,Ontario,Yes,101 E St,2024-09-28,44.5462128,-78.5420441,K0M1A0,K0M,Pharmasave
+1196,44.5465674-79.1766705Other/Independent,Brechin Pharmacy,Brechin,Ontario,Yes,2280 Hwy 12,2021-06-05,44.5465674,-79.1766705,L0K1B0,L0K,Other/Independent
+1197,44.563073-80.4559889Other/Independent,Thornbury Pharmacy,Thornbury,Ontario,Yes,45 Arthur St W,2024-09-05,44.563073,-80.4559889,N0H2P0,N0H,Other/Independent
+1199,44.570175-80.9275997Rexall,Rexall,Owen Sound,Ontario,Yes,1507 Ninth Ave E,2023-02-03,44.570175,-80.9275997,N4K3E9,N4K,Rexall
+1204,44.604672-75.699325Shoppers Drug Mart,Shoppers Drug Mart,Brockville,Ontario,Yes,2399 Parkdale Ave Unit 27,2023-06-23,44.604672,-75.699325,K6V3G9,K6V,Shoppers Drug Mart
+1205,44.6072829-75.6930882Other/Independent,Parkedale Pharmacy,Brockville,Ontario,Yes,2235 Parkedale Ave,2022-08-10,44.6072829,-75.6930882,K6V6B2,K6V,Other/Independent
+1206,44.6079966-79.4396666Shoppers Drug Mart,Shoppers Drug Mart,Orillia,Ontario,Yes,149 Wmount Dr N,2023-12-22,44.6079966,-79.4396666,L3V6C7,L3V,Shoppers Drug Mart
+1209,44.6114743-75.686385Walmart,Wal-Mart Pharmacy,Brockville,Ontario,Yes,1942 Parkdale Ave,2024-10-10,44.6114743,-75.686385,K6V7N4,K6V,Walmart
+1211,44.6589535-78.797323Other/Independent,Coby Pharmacy,Coboconk,Ontario,Yes,Main St 6662 Hwy 35,2021-07-04,44.6589535,-78.797323,K0M1K0,K0M,Other/Independent
+1213,44.7087968-75.515188Shoppers Drug Mart,Shoppers Drug Mart,Prescott,Ontario,Yes,231 King St W,2024-01-28,44.7087968,-75.515188,K0E1T0,K0E,Shoppers Drug Mart
+1214,44.7175758-79.8972249Loblaw,Real Canadian Superstore,Midland,Ontario,Yes,9292 Hwy 93,2022-10-22,44.7175758,-79.8972249,L4R4K4,L4R,Loblaw
+1221,44.888392-76.018961Other/Independent,Smiths Falls Family Pharmacy,Smiths Falls,Ontario,Yes,207 Brockville St Unit 2,2024-07-06,44.888392,-76.018961,K7A3Z3,K7A,Other/Independent
+1222,44.8924731-76.0267593Loblaw,The Drugstore Pharmacy,Smiths Falls,Ontario,Yes,25 Ferrara Dr,2024-08-31,44.8924731,-76.0267593,K7A5K6,K7A,Loblaw
+1225,44.9076224-76.2649133Other/Independent,Perth Mews Pharmacy,Perth,Ontario,Yes,80 Dufferin St Unit 095,2022-08-18,44.9076224,-76.2649133,K7H3A7,K7H,Other/Independent
+1229,45.018657-75.6565067Loblaw,Loblaw Pharmacy,Kemptville,Ontario,Yes,2600 Hwy 43 W Unit 1,2022-03-13,45.018657,-75.6565067,K0G1J0,K0G,Loblaw
+1230,45.018657-75.6565067Other/Independent,Kemptville Drugmart,Kemptville,Ontario,Yes,2600 Hwy 43 Unit 19-20,2022-02-02,45.018657,-75.6565067,K0G1J0,K0G,Other/Independent
+1231,45.0230195-75.6521543Shoppers Drug Mart,Shoppers Drug Mart,Kemptville,Ontario,Yes,2727 Country Rd 43,2023-08-25,45.0230195,-75.6521543,K0G1J0,K0G,Shoppers Drug Mart
+1237,45.045947-78.534552Loblaw,Drugstore Pharmacy,Haliburton,Ontario,Yes,5121 County Rd 21,2021-09-24,45.045947,-78.534552,K0M1S0,K0M,Loblaw
+1239,45.061573-77.856565Shoppers Drug Mart,Shoppers Drug Mart,Bancroft,Ontario,Yes,118 Hastings St N,2023-05-21,45.061573,-77.856565,K0L1C0,K0L,Shoppers Drug Mart
+1240,45.0686492-77.8619824Other/Independent,North Hastings Family Pharmacy,Bancroft,Ontario,Yes,217 Hastings St N,2022-07-27,45.0686492,-77.8619824,K0L1C0,K0L,Other/Independent
+1242,45.1308173-75.7162208Other/Independent,North Gower Pharmacy,North Gower,Ontario,Yes,2333 Church St Unit 7,2022-07-26,45.1308173,-75.7162208,K0A2T0,K0A,Other/Independent
+1243,45.1355215-76.1399079IDA,Carleton Place IDA Drug Mart,Carleton Place,Ontario,Yes,47 Lansdowne Ave,2021-06-19,45.1355215,-76.1399079,K7C3S9,K7C,IDA
+1245,45.1494697-75.6029765Other/Independent,Osgoode Pharmacy,Osgoode,Ontario,Yes,3192 Logan Farm Dr,2022-08-04,45.1494697,-75.6029765,K0A2W0,K0A,Other/Independent
+1246,45.1903627-75.8457423IDA,Richmond IDA Pharmacy,Richmond,Ontario,Yes,6265 Perth St Unit 1,2023-04-13,45.1903627,-75.8457423,K0A2Z0,K0A,IDA
+1247,45.1935776-75.8394527Other/Independent,Richmond Village Pharmacy,Richmond,Ontario,Yes,6146 Perth St,2023-04-15,45.1935776,-75.8394527,K0A2Z0,K0A,Other/Independent
+1250,45.2348379-76.1855636Shoppers Drug Mart,Shoppers Drug Mart,Almonte,Ontario,Yes,376 Ottawa St,2023-05-14,45.2348379,-76.1855636,K0A1A0,K0A,Shoppers Drug Mart
+1251,45.2554602-75.9162265Other/Independent,Stittsville Whole Health Pharmacy,Ottawa,Ontario,Yes,1609 Stittsville Main St Unit C,2024-08-07,45.2554602,-75.9162265,K2S1B8,K2S,Other/Independent
+1252,45.2603845-75.7684158Guardian,Cedarview Guardian Pharmacy,Nepean,Ontario,Yes,4100 Strandherd Dr Unit 112,2021-06-24,45.2603845,-75.7684158,K2J0V2,K2J,Guardian
+1254,45.2680519-75.7434605Loblaw,The Drug Store Pharmacy,Ottawa,Ontario,Yes,3201 Greenbank Rd,2024-08-27,45.2680519,-75.7434605,K2J4H9,K2J,Loblaw
+1257,45.2683291-75.9311232Other/Independent,Stittsville Drug Mart,Stittsville,Ontario,Yes,1250 Main St Unit 4,2024-08-06,45.2683291,-75.9311232,K2S1S9,K2S,Other/Independent
+1258,45.2684141-75.3036791Other/Independent,Embrun Remedy's Rx,Embrun,Ontario,Yes,753 Notre Dame St,2021-10-19,45.2684141,-75.3036791,K0A1W0,K0A,Other/Independent
+1267,45.2831139-75.6863032Pharmasave,Good Health Pharmasave,Gloucester,Ontario,Yes,4188 Spratt Rd Unit 2,2021-12-09,45.2831139,-75.6863032,K1V0Z6,K1V,Pharmasave
+1272,45.2930282-75.7423543Other/Independent,Fallowfield Pharmacy,Ottawa,Ontario,Yes,3500 Fallowfield Rd Unit 1B,2021-10-29,45.2930282,-75.7423543,K2J4A7,K2J,Other/Independent
+1275,45.3042405-75.8947172Pharmasave,Kanata Pharmasave,Kanata,Ontario,Yes,99 Kakulu Rd Unit 101,2022-01-29,45.3042405,-75.8947172,K2L3C8,K2L,Pharmasave
+1276,45.3102498-75.9203218Shoppers Drug Mart,Shoppers Drug Mart,Kanata,Ontario,Yes,499 Terry Fox Dr Unit 10,2023-08-24,45.3102498,-75.9203218,K2T1H7,K2T,Shoppers Drug Mart
+1277,45.3124188-75.8958402Other/Independent,Kanata Compounding Pharmacy,Kanata,Ontario,Yes,150 Katimavik Rd Unit 46 Level 1,2022-01-28,45.3124188,-75.8958402,K2L2N2,K2L,Other/Independent
+1278,45.3198157-75.5942266Shoppers Drug Mart,Shoppers Drug Mart,Ottawa,Ontario,Yes,4744 Bank St Unit 1,2024-01-07,45.3198157,-75.5942266,K1T0K8,K1T,Shoppers Drug Mart
+1280,45.3244028-75.7795626Other/Independent,Greenbank Hunt Club Pharmacy,Ottawa,Ontario,Yes,250 Greenbank Rd,2021-12-18,45.3244028,-75.7795626,K2H8X4,K2H,Other/Independent
+1281,45.3245571-75.8330591Loblaw,The Drug Store Pharmacy,Nepean,Ontario,Yes,59A Robertson Rd,2024-08-25,45.3245571,-75.8330591,K2H5Y9,K2H,Loblaw
+1284,45.332737-76.2906306Other/Independent,Pakenham Pharmacy,Pakenham,Ontario,Yes,2547 County Rd 29,2022-08-07,45.332737,-76.2906306,K0A2X0,K0A,Other/Independent
+1291,45.3447291-76.0380015Other/Independent,West Carlton Drug Mart,Carp,Ontario,Yes,461 Donald B Munro Dr,2025-01-15,45.3447291,-76.0380015,K0A1L0,K0A,Other/Independent
+1293,45.3482612-75.8050948Walmart,Wal-Mart Pharmacy,Nepean,Ontario,Yes,100 Bayshore Dr Unit 10,2024-11-12,45.3482612,-75.8050948,K2B8C1,K2B,Walmart
+1294,45.3483871-75.6457041Other/Independent,Bridle Path Pharmacy,Gloucester,Ontario,Yes,4000 Bridle Path Dr Unit 6,2021-06-07,45.3483871,-75.6457041,K1T2C4,K1T,Other/Independent
+1295,45.3506573-75.6719591Shoppers Drug Mart,Shoppers Drug Mart,Ottawa,Ontario,Yes,3310 Mccarthy Rd,2024-01-03,45.3506573,-75.6719591,K1V9S1,K1V,Shoppers Drug Mart
+1297,45.351331-75.730712Loblaw,Loblaw Pharmacy,Nepean,Ontario,Yes,200 Grant Carman Dr,2022-03-23,45.351331,-75.730712,K2E7Z8,K2E,Loblaw
+1298,45.3520746-75.7595588Loblaw,Loblaw Pharmacy,Nepean,Ontario,Yes,1980 Baseline Rd,2022-03-24,45.3520746,-75.7595588,K2C0C6,K2C,Loblaw
+1299,45.3528317-75.6467883Shoppers Drug Mart,Shoppers Drug Mart,Ottawa,Ontario,Yes,2446 Bank St Unit 115,2024-01-02,45.3528317,-75.6467883,K1V1A4,K1V,Shoppers Drug Mart
+1300,45.3542812-75.6459712Shoppers Drug Mart,Shoppers Drug Mart,Ottawa,Ontario,Yes,2515 Bank St Unit 15,2024-01-10,45.3542812,-75.6459712,K1V8R9,K1V,Shoppers Drug Mart
+1301,45.3543072-75.6436138Other/Independent,Bank Street Pharmacy,Ottawa,Ontario,Yes,2531 Bank St,2021-05-08,45.3543072,-75.6436138,K1V8R9,K1V,Other/Independent
+1304,45.354899-75.6547546Walmart,Wal-Mart Pharmacy,Ottawa,Ontario,Yes,2210 Bank St,2024-11-20,45.354899,-75.6547546,K1V0Y5,K1V,Walmart
+1311,45.3680045-75.6615191Other/Independent,Bank Street Medical Pharmacy,Ottawa,Ontario,Yes,1935 Bank St,2021-05-07,45.3680045,-75.6615191,K1V8A3,K1V,Other/Independent
+1312,45.3682958-75.7333981Other/Independent,Apothe Sos Pharmacy,Ottawa,Ontario,Yes,314 Central Park Dr Unit 8,2021-04-27,45.3682958,-75.7333981,K2C0R2,K2C,Other/Independent
+1313,45.368436-75.6877711Other/Independent,Mooney's Bay Pharmacy,Ottawa,Ontario,Yes,743 Ridgewood Ave,2022-06-21,45.368436,-75.6877711,K1V6M8,K1V,Other/Independent
+1314,45.3694167-75.7687714Shoppers Drug Mart,Shoppers Drug Mart,Ottawa,Ontario,Yes,2148 Carling Ave Unit 1,2024-01-14,45.3694167,-75.7687714,K2A1H1,K2A,Shoppers Drug Mart
+1318,45.3733998-75.6642724Other/Independent,Promed Pharmacy,Ottawa,Ontario,Yes,2706 Alta Vista Dr,2022-10-12,45.3733998,-75.6642724,K1V7T4,K1V,Other/Independent
+1319,45.3735144-75.6534727Other/Independent,Shas Pharmacy,Ottawa,Ontario,Yes,1428 Walkley Rd,2023-05-05,45.3735144,-75.6534727,K1V6P5,K1V,Other/Independent
+1320,45.377104-75.6662906Other/Independent,Proactive Pharmacy,Ottawa,Ontario,Yes,1645 Bank St,2022-10-09,45.377104,-75.6662906,K1V7Z1,K1V,Other/Independent
+1321,45.3778586-75.6459656Rexall,Rexall,Ottawa,Ontario,Yes,1725 Walkley Rd Unit C,2023-01-31,45.3778586,-75.6459656,K1V2P6,K1V,Rexall
+1323,45.3802608-75.6691534Other/Independent,Evans Medical Pharmacy,Ottawa,Ontario,Yes,1194 Karn Place,2021-10-24,45.3802608,-75.6691534,K1H7Z8,K1H,Other/Independent
+1325,45.3857739-75.6775316Walmart,Wal-Mart Pharmacy,Ottawa,Ontario,Yes,2277 Riverside Dr,2024-11-21,45.3857739,-75.6775316,K1H7X6,K1H,Walmart
+1327,45.3880923-75.6450713Pharmasave,Pharmasave Cyril Pharmacy,Ottawa,Ontario,Yes,1795 Kilborn Ave,2022-09-16,45.3880923,-75.6450713,K1H6N1,K1H,Pharmasave
+1330,45.392278-75.752982Other/Independent,Hybrid Pharm,Ottawa,Ontario,Yes,318 Richmond Rd Unit 100,2022-01-11,45.392278,-75.752982,K1Z6X6,K1Z,Other/Independent
+1331,45.3942654-75.7473437Loblaw,Real Canadian Superstore,Ottawa,Ontario,Yes,190 Richmond Rd,2022-10-27,45.3942654,-75.7473437,K1Z6W6,K1Z,Loblaw
+1333,45.4013876-75.6872975Other/Independent,Whole Health Pharmacy Glebe,Ottawa,Ontario,Yes,857A Bank St,2025-02-01,45.4013876,-75.6872975,K1S3W2,K1S,Other/Independent
+1335,45.4048452-75.6897472Shoppers Drug Mart,Shoppers Drug Mart,Ottawa,Ontario,Yes,702 Bank St Unit 700,2024-01-06,45.4048452,-75.6897472,K1S3V2,K1S,Shoppers Drug Mart
+1337,45.4131465-75.6496399Walmart,Wal-Mart Pharmacy,Ottawa,Ontario,Yes,450 Terminal Ave,2024-11-19,45.4131465,-75.6496399,K1G0Z3,K1G,Walmart
+1341,45.4212821-75.4266411Other/Independent,Pharmacie Medici Pharmacy,Navan,Ontario,Yes,1200 Colonial Rd Unit 100,2022-08-31,45.4212821,-75.4266411,K4B1J5,K4B,Other/Independent
+1342,45.4219466-75.6387057Shoppers Drug Mart,Shoppers Drug Mart,Ottawa,Ontario,Yes,1200 St Laurent Blvd,2024-01-04,45.4219466,-75.6387057,K1K3B8,K1K,Shoppers Drug Mart
+1343,45.4237347-76.3680964Other/Independent,Excellent Care Pharmacy,Arnprior,Ontario,Yes,386 Daniel St S,2021-10-25,45.4237347,-76.3680964,K7S3G9,K7S,Other/Independent
+1349,45.4325275-75.6098258Rexall,Rexall,Gloucester,Ontario,Yes,1980 Ogilvie Rd Unit 144,2022-12-05,45.4325275,-75.6098258,K1J9L3,K1J,Rexall
+1350,45.4325275-75.6098258Walmart,Wal-Mart Pharmacy,Gloucester,Ontario,Yes,1980 Ogilvie Rd Unit 171,2024-10-17,45.4325275,-75.6098258,K1J9L3,K1J,Walmart
+1355,45.4539866-75.5079848Shoppers Drug Mart,Shoppers Drug Mart,Orleans,Ontario,Yes,3940 Innes Rd,2023-12-25,45.4539866,-75.5079848,K1W1K9,K1W,Shoppers Drug Mart
+1360,45.4617054-75.4860905IDA,Innes IDA Pharmacy,Orleans,Ontario,Yes,4473 Innes Rd Unit 101,2022-01-16,45.4617054,-75.4860905,K4A1A7,K4A,IDA
+1362,45.469773-75.4553161Sobeys,Sobeys Pharmacy,Orleans,Ontario,Yes,5150 Innes Rd,2024-07-21,45.469773,-75.4553161,K4A0G4,K4A,Sobeys
+1363,45.4702113-76.6812239Rexall,Rexall,Renfrew,Ontario,Yes,339 Raglan St,2023-02-11,45.4702113,-76.6812239,K7V1R6,K7V,Rexall
+1364,45.4764991-75.5228439Other/Independent,NoFrills Pharmacy,Gloucester,Ontario,Yes,1226 Orleans Place Dr,2022-07-20,45.4764991,-75.5228439,K1C1L2,K1C,Other/Independent
+1366,45.4781702-75.5155527Rexall,Rexall,Orleans,Ontario,Yes,110 Place DOrleans Dr Unit 160,2023-01-26,45.4781702,-75.5155527,K1C2L9,K1C,Rexall
+1367,45.4795894-76.6553723Walmart,Wal-Mart Pharmacy,Renfrew,Ontario,Yes,980 OBrien Rd RR 1,2024-11-26,45.4795894,-76.6553723,K7V3Z4,K7V,Walmart
+1369,45.4824857-75.4745687Other/Independent,Crown Pointe Pharmacy,Orleans,Ontario,Yes,900 Watters Rd Unit 13,2021-08-20,45.4824857,-75.4745687,K4A0B4,K4A,Other/Independent
+1370,45.4928539-78.2375552Other/Independent,Whitney Pharmacy,Whitney,Ontario,Yes,29542 Hwy 60,2025-01-30,45.4928539,-78.2375552,K0J2M0,K0J,Other/Independent
+1371,45.5322464-75.3059486Walmart,Wal-Mart Pharmacy,Rockland,Ontario,Yes,3001 Richeliue St,2024-11-27,45.5322464,-75.3059486,K4K0B5,K4K,Walmart
+1373,45.609338-74.611644Other/Independent,Pharmacie Jean Coutu,Hawkesbury,Ontario,Yes,80 Main St E,2022-08-30,45.609338,-74.611644,K6A1A3,K6A,Other/Independent
+1378,45.8905059-77.2636911Shoppers Drug Mart,Shoppers Drug Mart,Petawawa,Ontario,Yes,25 Civic Centre Rd,2024-01-22,45.8905059,-77.2636911,K8H0B1,K8H,Shoppers Drug Mart
+1381,46.3146329-79.4406629Walmart,Wal-Mart Pharmacy,North Bay,Ontario,Yes,1500 Fisher St,2024-11-17,46.3146329,-79.4406629,P1B2H3,P1B,Walmart
+1384,46.3667275-79.9081968Loblaw,Loblaw Pharmacy,Sturgeon Falls,Ontario,Yes,12035 Hwy 17,2022-04-11,46.3667275,-79.9081968,P2B2S6,P2B,Loblaw
+1386,46.4229494-81.1433738Loblaw,Walden Family Drugstore,Lively,Ontario,Yes,135 Regional Rd 24 Unit 14,2024-12-26,46.4229494,-81.1433738,P3Y1J1,P3Y,Loblaw
+1390,46.5250988-84.3193926Loblaw,Loblaw Pharmacy,Sault Ste Marie,Ontario,Yes,44 Great Nern Rd Unit 50,2022-04-07,46.5250988,-84.3193926,P6B4Y5,P6B,Loblaw
+1391,46.5374357-84.3831079Other/Independent,West End Pharmacy,Sault Ste Marie,Ontario,Yes,658 Second Line W Unit 3,2025-01-17,46.5374357,-84.3831079,P6C2K9,P6C,Other/Independent
+1395,47.5329091-79.6718499Walmart,Wal-Mart Pharmacy,Temiskaming Shores,Ontario,Yes,133 Hwy 11,2024-12-10,47.5329091,-79.6718499,P0J1P0,P0J,Walmart
+1410,48.4386943-89.21956Other/Independent,Safeway Pharmacy,Thunder Bay,Ontario,Yes,70 N Court St,2023-04-29,48.4386943,-89.21956,P7A4T8,P7A,Other/Independent
+1433,48.475925-81.3157104Shoppers Drug Mart,Shoppers Drug Mart,Timmins,Ontario,Yes,681 Algonquin Blvd E Unit 5,2024-03-17,48.475925,-81.3157104,P4N8S6,P4N,Shoppers Drug Mart
+1437,48.6102783-93.3989687Pharmasave,Pharmasave Fort Frances,Fort Frances,Ontario,Yes,140 Scott St,2022-09-20,48.6102783,-93.3989687,P9A1G6,P9A,Pharmasave
+1493,49.0614446-81.02549Other/Independent,Wallace Drug Store,Cochrane,Ontario,Yes,109 6th Ave,2024-12-27,49.0614446,-81.02549,P0L1C0,P0L,Other/Independent
+1972,49.7673311-94.4842897Loblaw,Loblaw Pharmacy,Kenora,Ontario,Yes,538 Park St,2022-03-14,49.7673311,-94.4842897,P9N1A1,P9N,Loblaw

@@ -21,6 +21,7 @@
     "cheerio": "^1.0.0-rc.6",
     "cherio": "^1.0.0-rc.2",
     "json-2-csv": "^3.10.3",
+    "puppeteer": "^8.0.0",
     "save-data-helper": "^1.0.2"
   }
 }

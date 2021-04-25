@@ -7,12 +7,6 @@ async function getData() {
     try {
         const sites = []
         const urls = [
-            'https://web.archive.org/web/20210310100031/https://covid-19.ontario.ca/vaccine-locations/',
-            'https://web.archive.org/web/20210311231924/https://covid-19.ontario.ca/vaccine-locations/',
-            'https://web.archive.org/web/20210329173950/https://covid-19.ontario.ca/vaccine-locations/',
-            'https://web.archive.org/web/20210402132525/https://covid-19.ontario.ca/vaccine-locations/',
-            'https://web.archive.org/web/20210403200048/https://covid-19.ontario.ca/vaccine-locations/',
-            'https://web.archive.org/web/20210408202204/https://covid-19.ontario.ca/vaccine-locations/',
             'https://covid-19.ontario.ca/vaccine-locations'
         ]
         for (url of urls) {
@@ -83,5 +77,5 @@ async function getData() {
 
 getData().then((res) => {
     console.log(res)
-    functions.saveData(res,"./data-ontario",true, true)
+    functions.saveData(res,"./data-ontario-2",true, true)
 })
